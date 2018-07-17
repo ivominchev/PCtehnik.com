@@ -1,0 +1,170 @@
+#speedy_form table {
+	border-width: 0;
+	margin-bottom: 15px;
+}
+
+#speedy_form table tbody tr td {
+	border: none;
+	font-size: 14px;
+}
+
+#speedy_form input, #speedy_form select {
+	font-size: 14px;
+}
+
+#speedy_form td {
+	padding: 6px;
+}
+
+#speedy_methods {
+	margin: 15px 10px;
+}
+#speedy_methods table {
+	width: 100%;
+	table-layout: auto;
+}
+
+#speedy_methods table select {
+	font-size: 14px;
+}
+
+#speedy_methods td {
+	padding: 3px 0;
+	font-size: 14px;
+}
+
+#speedy_methods td:first-child {
+	width: 50%;
+}
+
+#speedy_methods td input, #speedy_methods td  label {
+	cursor: pointer;
+}
+
+#speedy_methods table.speedy_table {
+	border: 1px solid #AEB0AF;
+	width: 100%;
+	margin-top: 6px;
+	margin-bottom: 6px;
+}
+
+#speedy_methods table.speedy_table  td {
+	border: 1px solid #AEB0AF;
+	padding: 4px;
+}
+
+td.right {
+	text-align: right;
+}
+
+#speedy_methods table.speedy_table  td.right {
+	vertical-align: top;
+}
+
+td.speedy_table_right {
+	vertical-align: top;
+}
+.woocommerce table.shop_table td.speedy_table_right {
+	vertical-align: top;
+}
+
+ /* Admin */
+#speedy_form_admin table tbody tr td {
+	border: none;
+	font-size: 14px;
+}
+
+#speedy_methods table.speedy_table_admin {
+	width: 80%;
+}
+
+.speedy_generate .required {
+	color: #f00;
+}
+
+.speedy_required::after {
+	color: #f00;
+	content: "*";
+}
+
+/* sizing */
+#speedy_form {
+	width: 70%
+}
+
+#speedy_city, #speedy_street {
+	width: 60%;
+}
+
+#speedy_postcode, #speedy_street_no {
+	width: 14%;
+}
+
+#speedy_quarter, #speedy_note {
+	width: 85%;
+}
+
+#speedy_block_no, #speedy_entrance_no, #speedy_floor_no, #speedy_apartment_no {
+	width: 16%;
+}
+
+@media screen and (max-width: 800px) {
+	#speedy_form td {
+		vertical-align: initial;
+		padding: 6px 1px;
+	}
+
+	#speedy_form {
+		width: 100%;
+	}
+
+	#speedy_form tr td:first-child {
+		
+	}
+}
+
+@media screen and (max-width: 600px) {
+	#speedy_country {
+		width: 100%;
+		margin-bottom: 12px;
+	}
+
+	label[for=speedy_state] {
+		margin-left: -46px;
+		margin-right: 10px;
+	}
+
+	#speedy_address_1, #speedy_address_2, #speedy_state {
+		width: 100%;
+	}
+
+	#speedy_form label {
+		font-size: 13px;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	#speedy_form label {
+		font-size: 11px;
+	}
+}
+
+/* Autocomplete */
+.ui-menu .ui-menu-item {
+	font-size: 13px;
+}
+
+#parcels_size input {
+	width: 150px;
+}
+#speedy-settings .speedy-group {
+	background-color: #D5D5D5;
+	border-top: 1px solid #F1F1F1;
+}
+#speedy-settings .speedy-group.speedy-first-in-group {
+	border-top: 10px solid #F1F1F1;
+}
+#speedy-settings th.titledesc {
+	padding-left: 10px;
+	width: 350px;
+}

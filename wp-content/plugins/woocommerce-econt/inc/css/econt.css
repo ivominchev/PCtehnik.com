@@ -1,0 +1,24 @@
+
+.econt_shipping_to_door { display:none; }
+.econt_shipping_to_office { display:none; }
+.econt_shipping_to_machine { display:none; }
+
+.econt_shipping_from_door { display:none; }
+.econt_shipping_from_office { display:none; }
+.econt_shipping_from_machine { display:none; }
+.econt_shipping_cost { display:none; }
+
+#econt_city_courier_field { display:none; }
+
+#econt_door_postcode, #econt_offices_postcode, #econt_door_street_num, #econt_door_street_bl, #econt_door_street_vh, #econt_door_street_et, #econt_door_street_ap {width: 120px;}
+
+#sender_door select { width: 250px; }
+
+/* #econt_offices_postcode {width: 120px;} */
+/*
+ //autocomplete style
+.ui-autocomplete-loading {
+background: white url("images/ui-anim_basic_16x16.gif") right center no-repeat;
+}
+.econt_shipping_to_office { width: 25em; }
+*/

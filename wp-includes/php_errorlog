@@ -1,0 +1,21 @@
+[22-Dec-2015 15:14:50 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/pctehni/public_html/wp-includes/rss-functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pctehni/public_html/wp-includes/rss-functions.php on line 8
+[15-Mar-2016 10:30:25 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/pctehni/public_html/wp-includes/rss-functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pctehni/public_html/wp-includes/rss-functions.php on line 8
+[08-Jan-2017 09:32:36 CST6CDT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/local/php70/pear') in /home/pctehni/public_html/wp-includes/functions.php on line 8
+[08-Jan-2017 10:28:39 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/pctehni/public_html/wp-includes/session.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pctehni/public_html/wp-includes/session.php on line 8
+[09-Mar-2017 21:09:15 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/pctehni/public_html/wp-includes/rss-functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pctehni/public_html/wp-includes/rss-functions.php on line 8
+[22-Mar-2017 00:49:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/pctehni/public_html/wp-includes/registration-functions.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pctehni/public_html/wp-includes/registration-functions.php on line 7

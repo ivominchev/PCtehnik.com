@@ -1,0 +1,85 @@
+# Translation of Transliterado to Swedish from Esperanto
+# Bertilo Wennergren <bertilow@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: Transliterado 0.1\n"
+"Report-Msgid-Bugs-To: bertilow@gmail.com\n"
+"POT-Creation-Date: 2008-04-01 09:24+0900\n"
+"PO-Revision-Date: 2008-04-19 21:01+0900\n"
+"Last-Translator: Bertilo Wennergren <bertilow@gmail.com>\n"
+"Language-Team: Swedish <bertilow@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: transliterado.php:12
+msgid "Specialaj signoj"
+msgstr "Specialtecken"
+
+#: transliterado.php:13
+msgid "Simpligo de haltostrekoj kaj aliaj specialaj signoj"
+msgstr "Förenkla tankestreck och andra specialtecken"
+
+#: transliterado.php:68
+msgid ""
+"Ĉi tie vi povas elekti, kiuj transliteradaj sistemoj estu uzataj en la URL-"
+"nomoj de novaj afiŝoj kaj paĝoj. Ne elektu pli da sistemoj ol vi vere "
+"bezonas. Atentu, ke iuj sistemoj koncernas la samajn signojn, kaj do povas "
+"interkolizii."
+msgstr ""
+"Här kan du välja vilka translittereringssystem som ska användas i permalänkar "
+"för nya inlägg och sidor. Välj inte fler system än du verkligen behöver. "
+"Observera att en del system behandlar samma tecken, vilket kan leda till "
+"kollisioner."
+
+#: transliterado.php:80
+msgid "La elektoj estas konservitaj."
+msgstr "Inställningarna har sparats."
+
+#: transliterado.php:102
+msgid ""
+"La malnovaj URL-nomoj de afiŝoj kaj paĝoj estas ŝanĝitaj laŭ tiuj elektoj."
+msgstr ""
+"Redan befintliga permalänkar för inlägg och sidor har ändrats enligt dessa inställningar."
+
+#: transliterado.php:114
+msgid ""
+"La malnovaj URL-nomoj de etikedoj kaj kategorioj (ankaŭ ligilo-kategorioj) "
+"estas ŝanĝitaj laŭ tiuj elektoj."
+msgstr ""
+"Redan befintliga permalänkar för etikettero och kategorier (även länk-kategorier) "
+"har ändrats enligt de nya inställningarna."
+
+#: transliterado.php:145
+msgid "Ŝanĝi malnovajn afiŝojn/paĝojn"
+msgstr "Ändra redan befintliga inlägg/sidor"
+
+#: transliterado.php:147
+msgid ""
+"Se vi elektos <em>Ŝanĝi malnovajn afiŝojn/paĝojn</em>, estos ŝanĝitaj la URL-"
+"nomoj de ĉiuj jam publikigitaj afiŝoj kaj paĝoj laŭ la novaj elektoj. "
+"Ligiloj, kiuj uzas la malnovajn URL-nomojn, tamen restos plu funkciantaj."
+msgstr "Om du väljer <em>Ändra redan befintliga inlägg/sidor</em>, så ändras "
+"permalänkarna för alla redan publicerade artiklar och sidor enligt de nya "
+"inställningarna. Länkar som använder de tidigare formerna förblir dock användbara."
+
+#: transliterado.php:151
+msgid "Ŝanĝi malnovajn etikedojn/kategoriojn"
+msgstr ""
+
+#: transliterado.php:153
+msgid ""
+"Se vi elektos <em>Ŝanĝi malnovajn etikedojn/kategoriojn</em>, estos ŝanĝitaj "
+"la URL-nomoj de ĉiuj jam ekzistantaj etikedoj kaj kategorioj (ankaŭ ligilo-"
+"kategorioj) laŭ la novaj elektoj. <strong>Ligiloj, kiuj uzas la malnovajn "
+"URL-nomojn de tiuj etikedoj kaj kategorioj, <em>ne plu funkcios</em></"
+"strong>. Pripensu do bone antaŭ ol elekti tiun ĉi eblon."
+msgstr "Om du väljer <em>Ändra redan befintliga etiketter/kategorier</em>, så ändras "
+"permalänkarna för alla redan skapade etiketter och kategorier enligt de nya "
+"inställningarna. <strong>Länkar som använder de tidigare formerna <em>kommer "
+"inte att fungera längre</em></strong>. Tänk dig alltså noga för innan du "
+"väljer att göra detta."
+
+#: transliterado.php:157
+msgid "Konservi"
+msgstr "Spara"

@@ -1,0 +1,930 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Product Slider Pro v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-11-26 14:55-0300\n"
+"Last-Translator: Paula Bambino <paula.groups@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: pt_BR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ wa_wps_widget
+#: classes/class-wa-wps-widget.php:7
+msgid "WPS Widget"
+msgstr "Widget WPS"
+
+# @ wp_widget_plugin
+#: classes/class-wa-wps-widget.php:24
+msgid "Widget Title"
+msgstr "Título do Widget"
+
+# @ wp_widget_plugin
+#: classes/class-wa-wps-widget.php:29
+msgid "Slider ID:"
+msgstr "ID do Slider:"
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1152
+msgid "Save"
+msgstr "Salvar"
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1153
+msgid "Shortcode"
+msgstr "Shortcode"
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1154
+msgid "Options"
+msgstr "Opções"
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1184
+msgid ""
+"<p>Please, fill the required fields. Then click on the Create Slider button "
+"to get the slider shortcode.</p>"
+msgstr ""
+"<p>Por favor, preencha os campos obrigatórios. Depois clique no botão Criar "
+"Slider para pegar o shortcode do slider.</p>"
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1221
+msgid "Loading place:"
+msgstr "Lugar de carregamento:"
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1222
+msgid "Load jQuery:"
+msgstr "Carregar jQuery:"
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1223
+msgid "Load transit:"
+msgstr "Carregar transit:"
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1224
+msgid "Magnific popup:"
+msgstr "Popup Magnífico:"
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1225
+msgid "CarouFredsel:"
+msgstr "CarouFredsel:"
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1226
+msgid "Lazyload:"
+msgstr "Lazyload:"
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1227
+msgid "TouchSwipe:"
+msgstr "TouchSwipe:"
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1228
+msgid "Deactivation:"
+msgstr "Desativação:"
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1247
+msgid "Select where all the scripts should be placed."
+msgstr "Selecione aonde todos os scripts devem ser colocados."
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1263
+msgid "Delete settings on plugin deactivation."
+msgstr "Apagar configurações na desativação do plugin."
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1282
+msgid "Enable this option, if you dont have jQuery on your website."
+msgstr "Habilitar esta opção se você não possui jQuery no seu website."
+
+# @ wps
+# @ responsive-lightbox
+#: classes/class-woocommerce-product-slider-pro.php:1301
+#: classes/class-woocommerce-product-slider-pro.php:1320
+#: classes/class-woocommerce-product-slider-pro.php:1339
+#: classes/class-woocommerce-product-slider-pro.php:1359
+#: classes/class-woocommerce-product-slider-pro.php:1380
+msgid ""
+"Disable this option, if this script has already loaded on your web site."
+msgstr "Desabilitar esta opção se esse script já foi carregado no seu website."
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1453
+msgid "WooCommerce product slider"
+msgstr "Slider de produto WooCommerce"
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1465
+msgid "Useful links"
+msgstr "Links úteis"
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1472
+msgid "Documentation:  "
+msgstr "Documentação:"
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1473
+msgid " documentation"
+msgstr " documentação"
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1473
+msgid "  Documentation"
+msgstr "  Documentação"
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1479
+msgid "Author URI:  "
+msgstr "URI do Autor:"
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1480
+msgid "author URI"
+msgstr "URI do autor"
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1480
+msgid " Weave Apps"
+msgstr " Weaver Apps"
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1486
+msgid "Support:  "
+msgstr "Suporte:"
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1487
+msgid " support"
+msgstr " suporte"
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1487
+msgid "  Support"
+msgstr "  Suporte"
+
+# @ responsive-lightbox
+#: classes/class-woocommerce-product-slider-pro.php:1503
+msgid "Reset to defaults"
+msgstr "Redefinir aos padrão"
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1511
+msgid "Enable"
+msgstr "Habilitar"
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1512
+msgid "Disable"
+msgstr "Desabilitar"
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1516
+msgid "Header"
+msgstr "Cabeçalho"
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1517
+msgid "Footer"
+msgstr "Rodapé"
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1522
+msgid "General settings"
+msgstr "Configurações gerais"
+
+# @ wps
+#: classes/class-woocommerce-product-slider-pro.php:1622
+msgid "Settings restored to defaults."
+msgstr "Configurações restauradas ao padrão."
+
+# @ default
+#: classes/class-woocommerce-product-slider-pro.php:1660
+msgctxt "post type general name"
+msgid "WooCommerce product slider"
+msgstr "Slider de produto WooCommerce"
+
+# @ default
+#: classes/class-woocommerce-product-slider-pro.php:1661
+msgctxt "post type singular name"
+msgid "slider"
+msgstr "slider"
+
+# @ default
+#: classes/class-woocommerce-product-slider-pro.php:1662
+msgctxt "wa_rs_slider"
+msgid "Add New"
+msgstr "Adicionar Novo"
+
+# @ default
+#: classes/class-woocommerce-product-slider-pro.php:1663
+msgid "Add new slider"
+msgstr "Adicionar novo slider"
+
+# @ default
+#: classes/class-woocommerce-product-slider-pro.php:1664
+msgid "Edit slider"
+msgstr "Editar slider"
+
+# @ default
+#: classes/class-woocommerce-product-slider-pro.php:1665
+msgid "New slider"
+msgstr "Novo slider"
+
+# @ default
+#: classes/class-woocommerce-product-slider-pro.php:1666
+msgid "View slider"
+msgstr "Ver slider"
+
+# @ default
+#: classes/class-woocommerce-product-slider-pro.php:1667
+msgid "Search sliders"
+msgstr "Pesquisar sliders"
+
+# @ default
+#: classes/class-woocommerce-product-slider-pro.php:1668
+msgid "No records found"
+msgstr "Nenhum registro encontrado"
+
+# @ default
+#: classes/class-woocommerce-product-slider-pro.php:1669
+msgid "No records found in Trash"
+msgstr "Nenhum registro encontrado na Lixeira"
+
+# @ default
+#: classes/class-woocommerce-product-slider-pro.php:1699
+#: classes/class-woocommerce-product-slider-pro.php:1702
+msgid "Slider updated."
+msgstr "Slider atualizado."
+
+# @ default
+#: classes/class-woocommerce-product-slider-pro.php:1700
+msgid "Custom field updated."
+msgstr "Campo personalizado atualizado."
+
+# @ default
+#: classes/class-woocommerce-product-slider-pro.php:1701
+msgid "Custom field deleted."
+msgstr "Campo personalizado apagado."
+
+# @ default
+#: classes/class-woocommerce-product-slider-pro.php:1703
+#, php-format
+msgid "Slider restored to revision from %s"
+msgstr "Slider restaurado para revisão de %s"
+
+# @ default
+#: classes/class-woocommerce-product-slider-pro.php:1704
+msgid "Slider published."
+msgstr "Slider publicado."
+
+# @ default
+#: classes/class-woocommerce-product-slider-pro.php:1705
+msgid "Slider saved."
+msgstr "Slider salvo."
+
+# @ default
+#: classes/class-woocommerce-product-slider-pro.php:1706
+msgid "Slider submitted."
+msgstr "Slider enviado."
+
+# @ default
+#: classes/class-woocommerce-product-slider-pro.php:1707
+#, php-format
+msgid "Slider scheduled for: <strong>%1$s</strong>. "
+msgstr "Slider agendado para: <strong>%1$s</strong>. "
+
+# @ default
+#: classes/class-woocommerce-product-slider-pro.php:1707
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+# @ default
+#: classes/class-woocommerce-product-slider-pro.php:1708
+msgid "Slider draft updated."
+msgstr "Rascunho do slider atualizado."
+
+# @ default
+#: classes/wp-updates-plugin.php:87
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"Ocorreu um Erro de HTTP Inesperado durante a requisição da API. </p> <p><a "
+"href=\"?\" onclick=\"document.location.reload(); return false;\">Tentar "
+"novamente</a>"
+
+# @ default
+#: classes/wp-updates-plugin.php:91
+msgid "An unknown error occurred"
+msgstr "Ocorreu um erro desconhecido."
+
+# @ wps
+#: views/wa_wps_custom_publish_meta_box.php:10
+msgid "Move to Trash"
+msgstr "Mover para Lixeira"
+
+# @ wps
+#: views/wa_wps_custom_publish_meta_box.php:17
+msgid "Create slider"
+msgstr "Criar slider"
+
+# @ wps
+#: views/wa_wps_custom_publish_meta_box.php:19
+msgid "Update slider"
+msgstr "Atualizar slider"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:9
+msgid "Type of the content"
+msgstr "Tipo do conteúdo"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:25
+msgid ""
+"Please, select a type of the content (post type) which you want to display."
+msgstr ""
+"Por favor, selecione um tipo de conteúdo (tipo de post) que você deseja "
+"exibir."
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:33
+msgid "Product type"
+msgstr "Tipo de produto"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:73
+msgid "Taxonomy"
+msgstr "Taxonomia"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:91
+msgid ""
+"If you want to display posts from categories, First select post type as post "
+"then select taxonomy as category. After that you will be able to select "
+"categories from the  categories field which will appear below. Please, leave "
+"this empty, if you want to display specific posts by posts Ids which you can "
+"fill in the post ids field in below."
+msgstr ""
+"Se você quiser exibir posts a partir de categorias, primeiro selecione o "
+"tipo de post como post, depois selecione taxonomia como categoria. Então "
+"você poderá selecionar categorias do campo de categorias que aparecerá "
+"abaixo. Por favor, deixe este campo em branco se você quiser exibir posts "
+"específicos por IDs de posts, os quais você pode preencher no campo IDs de "
+"post abaixo."
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:101
+msgid "Categories / Terms "
+msgstr "Categorias / Termos"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:142
+msgid ""
+"Please, hold down the control or command button to select multiple options."
+msgstr ""
+"Por favor, segure o botão Control ou Command para selecionar múltiplas "
+"opções."
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:148
+msgid "Post IDs"
+msgstr "IDs dos Posts"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:150
+msgid ""
+"Please, leave this field empty, if you do not want to show specific posts or "
+"products based on IDs). Post IDs seperated by Comma e.g. 1, 3"
+msgstr ""
+"Por favor, deixe este campo em branco se você não quiser exibir posts "
+"específicos ou produtos baseados em IDs. IDs de Posts separados por vírgula "
+"ex. 1, 3"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:157
+msgid "Post order by"
+msgstr "Ordenar post por"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:159
+msgid ""
+"e.g. ID (Possible values: id, author, _price,  title, date, category, "
+"modified)"
+msgstr ""
+"ex. ID (Valores possíveis: id, author, _price, title, date, category, "
+"modified)"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:166
+msgid "Post order"
+msgstr "Ordem do post"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:189
+msgid "Theme"
+msgstr "Tema"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:203
+msgid ""
+"The themes which are located in the theme directry of the plugin are showing "
+"here. "
+msgstr ""
+"Os temas que estão localizados no diretório do tema do plugin são mostrados "
+"aqui."
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:210
+msgid "Image hover effects"
+msgstr "Efeitos de hover da imagem"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:232
+msgid ""
+"This will turn images to selected effect until user places their mouse over."
+msgstr ""
+"Isso irá transformar as imagens para o efeito selecionado até que o usuário "
+"passe o mouse por cima."
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:238
+msgid "Read more text"
+msgstr "Texto Leia mais"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:240
+msgid "This text will be shown after the excerpt. e.g. Read more"
+msgstr "Esse texto será exibido após o excerto. ex. Leia mais"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:245
+msgid "Excerpt Length"
+msgstr "Tamanho do Excerto"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:247
+msgid "Character Limit. e.g. 10"
+msgstr "Limite de Caractere. ex. 10"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:252
+msgid "Number of post to be shown in the slider"
+msgstr "Número de post a ser exibido no slider"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:254
+msgid "e.g. 20"
+msgstr "ex. 20"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:259
+msgid "Number of items to be shown in the page"
+msgstr "Número de itens a ser exibido na página"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:261
+msgid "e.g. 3"
+msgstr "ex. 3"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:266
+msgid "Number of items to be scroll in one transition"
+msgstr "Número de itens a ser rolado em uma transição"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:268
+msgid ""
+"e.g. 0 (if zero, value will be automatically set to the size of the page."
+msgstr ""
+"ex. 0 (se zero, valor será automaticamente definido ao tamanho da página.)"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:273
+msgid "Speed of transition"
+msgstr "Velocidade da transição"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:275
+msgid "Duration of the transition in milliseconds. e.g. 500"
+msgstr "Duração da transição em milissegundos. ex. 500"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:280
+msgid "General width of items"
+msgstr "Largura geral dos itens"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:282
+msgid "Width of one item in the carousel(PX). e.g. 250"
+msgstr "Largura de um item no carrossel (px). ex. 250"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:287
+msgid "General height of items"
+msgstr "Altura geral dos itens"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:289
+msgid "Height of one item in the carousel(PX). e.g. 320"
+msgstr "Altura de um item no carrossel (px). ex. 320"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:294
+msgid "Post image width"
+msgstr "Largura da imagem do post"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:296
+msgid "Width of image in the carousel(PX). e.g. 250"
+msgstr "Largura da imagem no carrossel (px). ex. 250"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:301
+msgid "Post image height"
+msgstr "Altura da imagem do post"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:303
+msgid ""
+"Height of image in the carousel(PX). e.g. 150. If this field empty, images "
+"height will be determined to the image width."
+msgstr ""
+"Altura da imagem no carrossel (px). ex. 150. Se este campo estiver vazio, a "
+"altura das imagens será determinada pela largura da imagem."
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:310
+msgid "Post image type"
+msgstr "Tipo de imagem do post"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:333
+msgid "Slider transition effect"
+msgstr "Efeito de transição do slider"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:362
+msgid "Easing effects"
+msgstr "Efeitos de easing"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:403
+msgid "Direction to scroll the carousel"
+msgstr "Direção da rolagem do carrossel"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:422
+msgid ""
+"Please, select right or left to display slider horizontally up or down to "
+"display vertically."
+msgstr ""
+"Por favor, selecione direita ou esquerda para exibir o slider "
+"horizontalmente, acima ou abaixo para exibir verticalmente."
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:430
+msgid "Align the items in Slider"
+msgstr "Alinhar os itens no Slider"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:451 views/wa_wps_options_meta_box.php:453
+msgid "Font colour"
+msgstr "Cor da Fonte"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:458
+msgid "Direction arrows colour"
+msgstr "Cor das setas de direção"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:460
+msgid "Next and Prev controls colour"
+msgstr "Cor dos controles de Próximo e Anterior"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:465
+msgid "Direction arrows background colour"
+msgstr "Cor do plano de fundo das setas de direção"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:467
+msgid "Next and Prev controls background colour"
+msgstr "Cor do plano de fundo dos controles de Próximo e Anterior"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:472
+msgid "Direction arrows hover colour"
+msgstr "Cor de hover das setas de direção"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:474
+msgid "Next and Prev controls hover colour"
+msgstr "Cor de hover dos controles de Próximo e Anterior"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:479
+msgid "Size of direction arrows"
+msgstr "Tamanho das setas de direção"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:481 views/wa_wps_options_meta_box.php:488
+#: views/wa_wps_options_meta_box.php:495
+msgid "e.g. 18"
+msgstr "ex. 18"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:486
+msgid "Title font size"
+msgstr "Tamanho da fonte do título"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:493
+msgid "General font size"
+msgstr "Tamanho geral da fonte"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:500
+msgid "Default image"
+msgstr "Imagem padrão"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:502
+msgid "This image will be shown for posts which does not have images"
+msgstr "Essa imagem será exibida para posts que não contêm imagens"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:507
+msgid "loader image"
+msgstr "imagem de carregamento"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:509
+msgid "This image will be used for lazy loading"
+msgstr "Essa imagem será usada para o lazy loading"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:514
+msgid "Start date"
+msgstr "Data de início"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:516 views/wa_wps_options_meta_box.php:523
+msgid "Please, leave empty to always show this carousel"
+msgstr "Por favor, deixe em branco para sempre exibir o carrossel"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:521
+msgid "End date"
+msgstr "Data de término"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:531
+msgid "Display options"
+msgstr "Opções de exibição"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:534
+msgid "Enable or Disable different navigation and control options"
+msgstr "Habilitar ou Desabilitar diferentes opções de navegação e controle"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:542
+msgid "Show post title"
+msgstr "Exibir título do post"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:549
+msgid "Show image"
+msgstr "Exibir imagem"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:556
+msgid "Show excerpt"
+msgstr "Exibir excerto"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:564
+msgid "Show read more text"
+msgstr "Exibir texto leia mais"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:571
+msgid "Show category name"
+msgstr "Exibir nome da categoria"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:573
+msgid ""
+"This will show the name of category a post belongs to on top of the item."
+msgstr ""
+"Isso irá exibir o nome da categoria a que o post pertence no topo do item."
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:579
+msgid "Pick text in excerpt field"
+msgstr "Pegar texto do campo do excerto"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:581
+msgid ""
+"If checked, text will be picked from excerpt field instead of post content "
+"area."
+msgstr ""
+"Se selecionado, texto será pego do campo do excerto ao invés da área de "
+"conteúdo do post."
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:588
+msgid "Change general width of items to fill the carousel"
+msgstr "Alterar largura geral dos itens para preencher o carrossel"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:590
+msgid ""
+"If uncheck, items will be centered to the page and width will not be "
+"changed. (only applies on horizontal carousels)"
+msgstr ""
+"Se não selecionado, itens serão centralizados na página e a largura não será "
+"alterada. (somente aplicável em carrossel horizontal)"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:596
+msgid "Lightbox"
+msgstr "Lightbox"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:598
+msgid "Uses Magnific popup for displaying images in lightbox."
+msgstr "Usa popup Magnífico para exibir as imagens em lightbox."
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:605
+msgid "Lazy loading"
+msgstr "Lady loading"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:607
+msgid ""
+"If checked, images outside of viewport wont be loaded before user scrolls to "
+"them. Uses lazyload plugin."
+msgstr ""
+"Se selecionado, imagens além do viewport não serão carregadas antes do "
+"usuário rolar para elas. Usa o plugin lazyload."
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:613
+msgid "Auto scroll slider"
+msgstr "Rolar slider automaticamente"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:621
+msgid "Touch Swipe"
+msgstr "Touch Swipe"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:623
+msgid ""
+"A carousel scrolled by swiping (or dragging on non-touch-devices). Uses "
+"touchSwipe plugin."
+msgstr ""
+"Um carrossel rolável por deslizamento (ou arrastamento em aparelhos que não "
+"possuem touchscreen). Usa o plugin touchSwipe."
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:629
+msgid "Show direction arrows"
+msgstr "Exibir setas de direção"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:636
+msgid ""
+"Show direction arrows only when mouse hovers over it. (only applies on "
+"horizontal carousels)."
+msgstr ""
+"Exibir setas de direção somente quando passar o mouse por cima. (somente "
+"aplicável em carrossel horizontal)."
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:643
+msgid "Show pagination "
+msgstr "Exibir paginação"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:651
+msgid "CSS3 Transtitions"
+msgstr "Transições CSS3"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:653
+msgid ""
+"Transition effect will be used CSS3 or hardware acceleration. Uses jquery."
+"transit plugin."
+msgstr ""
+"Efeito de transição será usado CSS3 ou aceleração de hardware. Usa o plugin "
+"jquery.transit. "
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:659
+msgid "Circular"
+msgstr "Circular"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:661
+msgid "Determines whether the carousel should be circular."
+msgstr "Determina se o carrossel deve ser circular ou não."
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:667
+msgid "Infinite"
+msgstr "Infinito"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:669
+msgid "Determines whether the carousel should be infinite."
+msgstr "Determina se o carrossel deve ser infinito ou não. "
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:675
+msgid "Make carousel pause when mouse hovers over it."
+msgstr "Fazer o carrossel pausar quando o mouse passar por cima."
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:683
+msgid "Show price "
+msgstr "Exibir preço"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:690
+msgid "Show post sale text over top of post image"
+msgstr "Exibir texto de promoção do post em cima da imagem do post"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:698
+msgid "Show add to cart"
+msgstr "Exibir adicionar ao carrinho"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:707
+msgid "Custom css"
+msgstr "CSS personalizado"
+
+# @ wps
+#: views/wa_wps_options_meta_box.php:709
+msgid "custom styles or override existing styles to meet your requirements."
+msgstr ""
+"estilos personalizados ou sobrescrever estilos existente para atender seus "
+"requisitos."
+
+# @ wps
+#: views/wa_wps_shortcode_meta_box.php:4
+msgid "Your Shortcode:"
+msgstr "Seu Shortcode:"
+
+# @ wps
+#: views/wa_wps_shortcode_meta_box.php:6
+msgid ""
+"Copy and paste this shortcode into your Post, Page or Custom Post editor."
+msgstr ""
+"Copiar e colar este shortcode no seu editor de Post, Página ou Post "
+"Personalizado."
+
+# @ wps
+#: views/wa_wps_shortcode_meta_box.php:9
+msgid "Your PHP Code:"
+msgstr "Seu Código PHP:"
+
+# @ wps
+#: views/wa_wps_shortcode_meta_box.php:11
+msgid ""
+"Copy and paste this code when you need to display the slider in template "
+"files (header.php, front-page.php, etc.)."
+msgstr ""
+"Copiar e colar este código quando você precisar exibir o slider nos arquivos "
+"do tema (header.php, front-page.php, etc.)."
+
+# @ wps
+#: views/wa_wps_shortcode_meta_box.php:13
+msgid ""
+"Note: You could also use the shortcode icon on the post text editer to "
+"generate short code. Sliders can also be added to available widget area "
+"using widget option"
+msgstr ""
+"Nota: Você também pode usar o ícone do shortcode no editor de texto do post "
+"para gerar o short code. Sliders também podem ser adicionados em uma área de "
+"widget disponível usando a opção de widget"

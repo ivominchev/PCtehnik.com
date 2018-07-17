@@ -1,0 +1,1779 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Econt Express - WooCommerce v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-07-01 16:26:14+0000\n"
+"Last-Translator: xmartix <martin@mreja.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Bulgarian\n"
+"X-Poedit-Country: BULGARIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: inc/class-ajax-econt-bkp.php:121
+#: inc/class-ajax-econt.php:137
+#@ woocommerce-econt
+msgid "refresh data success"
+msgstr "успешно обновяване на информацията"
+
+#: admin/class-order-econt.php:188
+#: admin/class-order-econt.php:198
+#: admin/view/html-order-view.php:413
+#: inc/class-ajax-econt-bkp.php:411
+#: inc/class-ajax-econt.php:746
+#: inc/class-mysql-econt.php:1744
+#: inc/class-mysql-econt.php:1745
+#@ woocommerce-econt
+msgid "error_connect"
+msgstr "грешка_при_свързването"
+
+#: inc/class-checkout-econt.php:103
+#@ woocommerce-econt
+msgid "Econt Express"
+msgstr "Еконт Експрес"
+
+#: inc/class-checkout-econt.php:163
+#@ woocommerce-econt
+msgid "Shipping to"
+msgstr "Изпращане до"
+
+#: inc/class-checkout-econt.php:149
+#: inc/class-checkout-econt.php:176
+#: inc/class-checkout-econt.php:196
+#: inc/class-checkout-econt.php:242
+#@ woocommerce-econt
+msgid "please select..."
+msgstr "моля, изберете..."
+
+#: inc/class-checkout-econt.php:154
+#@ woocommerce-econt
+msgid "to office"
+msgstr "до офис"
+
+#: inc/class-checkout-econt.php:151
+#@ woocommerce-econt
+msgid "to door"
+msgstr "до адрес"
+
+#: inc/class-checkout-econt.php:168
+#: inc/class-checkout-econt.php:189
+#: inc/class-checkout-econt.php:208
+#@ woocommerce-econt
+msgid "Enter your town"
+msgstr "Въведете град"
+
+#: inc/class-checkout-econt.php:171
+#: inc/class-checkout-econt.php:192
+#: inc/class-checkout-econt.php:211
+#@ woocommerce-econt
+msgid "Post Code"
+msgstr "Пощенски код"
+
+#: admin/class-sm-econt.php:419
+#: inc/class-checkout-econt.php:176
+#: inc/class-checkout-econt.php:196
+#@ woocommerce-econt
+msgid "Office"
+msgstr "Офис"
+
+#: inc/class-checkout-econt.php:176
+#: inc/class-checkout-econt.php:196
+#@ woocommerce-econt
+msgid "Select office"
+msgstr "Изберете Офис"
+
+#: inc/class-checkout-econt.php:214
+#@ woocommerce-econt
+msgid "Enter your street"
+msgstr "Въведете улица"
+
+#: inc/class-checkout-econt.php:217
+#@ woocommerce-econt
+msgid "Enter your quarter"
+msgstr "Въведете квартал"
+
+#: inc/class-checkout-econt.php:220
+#@ woocommerce-econt
+msgid "Street num.:"
+msgstr "ул. №:"
+
+#: inc/class-checkout-econt.php:220
+#@ woocommerce-econt
+msgid "street num"
+msgstr "ул. №:"
+
+#: inc/class-checkout-econt.php:223
+#@ woocommerce-econt
+msgid "Street block num.:"
+msgstr "блок №:"
+
+#: inc/class-checkout-econt.php:223
+#@ woocommerce-econt
+msgid "blok num"
+msgstr "блок №:"
+
+#: inc/class-checkout-econt.php:226
+#@ woocommerce-econt
+msgid "Street entrance num.:"
+msgstr "Вход №:"
+
+#: inc/class-checkout-econt.php:226
+#@ woocommerce-econt
+msgid "entr. num"
+msgstr "Вход №"
+
+#: inc/class-checkout-econt.php:229
+#@ woocommerce-econt
+msgid "Street floor num.:"
+msgstr "Етаж №:"
+
+#: inc/class-checkout-econt.php:229
+#@ woocommerce-econt
+msgid "fl. num"
+msgstr "Етаж №"
+
+#: inc/class-checkout-econt.php:232
+#@ woocommerce-econt
+msgid "Street apartment num.:"
+msgstr "Апартамент №:"
+
+#: inc/class-checkout-econt.php:232
+#@ woocommerce-econt
+msgid "ap. num"
+msgstr "ап. №"
+
+#: inc/class-checkout-econt.php:235
+#@ woocommerce-econt
+msgid "Enter other adress info"
+msgstr "Въведете пояснения за адрес"
+
+#: inc/class-checkout-econt.php:285
+#: inc/class-checkout-econt.php:287
+#@ woocommerce-econt
+msgid "Please fill all Econt Express office fileds."
+msgstr "Моля, попълнете всички задължителни полета за Еконт Експрес."
+
+#: inc/class-checkout-econt.php:297
+#: inc/class-checkout-econt.php:299
+#: inc/class-checkout-econt.php:307
+#: inc/class-checkout-econt.php:309
+#@ woocommerce-econt
+msgid "Please fill atleast Econt Express town, postcode and street fileds."
+msgstr "Моля, въведете поне град, пощенски код и улица."
+
+#: inc/class-checkout-econt.php:342
+#: inc/class-checkout-econt.php:344
+#@ woocommerce-econt
+msgid "Please fill Econt Express fields."
+msgstr "Моля, попълнете полетата за Еконт Експрес."
+
+#: inc/class-checkout-econt.php:479
+#: inc/class-checkout-econt.php:484
+#: inc/class-checkout-econt.php:696
+#: inc/class-checkout-econt.php:700
+#: inc/class-checkout-econt.php:706
+#@ woocommerce-econt
+msgid "Econt Town"
+msgstr "Град"
+
+#: inc/class-checkout-econt.php:480
+#@ woocommerce-econt
+msgid "Econt Office"
+msgstr "Офис"
+
+#: inc/class-checkout-econt.php:480
+#: inc/class-checkout-econt.php:485
+#: inc/class-checkout-econt.php:577
+#: inc/class-checkout-econt.php:592
+#: inc/class-checkout-econt.php:698
+#: inc/class-checkout-econt.php:702
+#@ woocommerce-econt
+msgid " address: "
+msgstr " адрес: "
+
+#: inc/class-checkout-econt.php:481
+#@ woocommerce-econt
+msgid "econt_offices_postcode"
+msgstr "еконт_офис_пощенски_код"
+
+#: inc/class-checkout-econt.php:490
+#@ woocommerce-econt
+msgid "Econt_Door_Town"
+msgstr "Еконт_До_Врата_Град"
+
+#: inc/class-checkout-econt.php:491
+#@ woocommerce-econt
+msgid "Econt_Door_Postcode"
+msgstr "Еконт_До_Врата_Пощенски_Код"
+
+#: inc/class-checkout-econt.php:492
+#@ woocommerce-econt
+msgid "Econt_Door_Street"
+msgstr "Еконт_До_Врата_Улица"
+
+#: inc/class-checkout-econt.php:493
+#@ woocommerce-econt
+msgid "Econt_Door_Quarter"
+msgstr "Еконт_До_Врата_Квартал"
+
+#: inc/class-checkout-econt.php:494
+#@ woocommerce-econt
+msgid "Econt_Door_street_num"
+msgstr "Еконт_До_Врата_улица_номер"
+
+#: inc/class-checkout-econt.php:495
+#@ woocommerce-econt
+msgid "Econt_Door_building_num"
+msgstr "Еконт_До_Врата_сграда_номер"
+
+#: inc/class-checkout-econt.php:496
+#@ woocommerce-econt
+msgid "Econt_Door_Entrance_num"
+msgstr "Еконт_До_Врата_Вход_Номер"
+
+#: inc/class-checkout-econt.php:497
+#@ woocommerce-econt
+msgid "Econt_Door_Floor_num"
+msgstr "Еконт_До_Врата_Етаж_Номер"
+
+#: inc/class-checkout-econt.php:498
+#@ woocommerce-econt
+msgid "Econt_Door_Apartment_num"
+msgstr "Еконт_До_Врата_Апартамент_номер"
+
+#: inc/class-checkout-econt.php:499
+#@ woocommerce-econt
+msgid "Econt_Door_Other"
+msgstr "Еконт_До_Врата_друго"
+
+#: inc/class-checkout-econt.php:560
+#@ woocommerce-econt
+msgid "The goods will be shipped to:"
+msgstr "Пратката ще бъде изпратена до:"
+
+#: inc/class-checkout-econt.php:569
+#: inc/class-checkout-econt.php:584
+#: inc/class-checkout-econt.php:601
+#@ woocommerce-econt
+msgid "Econt Town:"
+msgstr "Град:"
+
+#: inc/class-checkout-econt.php:575
+#@ woocommerce-econt
+msgid "Econt office:"
+msgstr "Офис:"
+
+#: inc/class-checkout-econt.php:607
+#@ woocommerce-econt
+msgid "Econt Postcode:"
+msgstr "Пощенски код:"
+
+#: inc/class-checkout-econt.php:614
+#@ woocommerce-econt
+msgid "Econt Street:"
+msgstr "Улица:"
+
+#: inc/class-checkout-econt.php:620
+#@ woocommerce-econt
+msgid "Econt Quarter:"
+msgstr "Квартал:"
+
+#: inc/class-checkout-econt.php:626
+#@ woocommerce-econt
+msgid "Econt Street Num.:"
+msgstr "Улица №:"
+
+#: inc/class-checkout-econt.php:632
+#@ woocommerce-econt
+msgid "Econt Building Num.:"
+msgstr "Блок №:"
+
+#: inc/class-checkout-econt.php:638
+#@ woocommerce-econt
+msgid "Econt Entrance:"
+msgstr "Вход №:"
+
+#: inc/class-checkout-econt.php:644
+#@ woocommerce-econt
+msgid "Econt Floor:"
+msgstr "Етаж №:"
+
+#: inc/class-checkout-econt.php:650
+#@ woocommerce-econt
+msgid "Econt Apartment:"
+msgstr "Апартамент №:"
+
+#: inc/class-checkout-econt.php:656
+#@ woocommerce-econt
+msgid "Econt Other:"
+msgstr "Друго:"
+
+#: inc/class-checkout-econt.php:698
+#@ woocommerce-econt
+msgid "Econt office"
+msgstr "Офис"
+
+#: inc/class-checkout-econt.php:708
+#@ woocommerce-econt
+msgid "Econt Postcode"
+msgstr "Пощенски код"
+
+#: inc/class-checkout-econt.php:710
+#@ woocommerce-econt
+msgid "Econt Street"
+msgstr "Улица"
+
+#: inc/class-checkout-econt.php:712
+#@ woocommerce-econt
+msgid "Econt Quarter"
+msgstr "Квартал"
+
+#: inc/class-checkout-econt.php:714
+#@ woocommerce-econt
+msgid "Econt Street Num."
+msgstr "Улица №"
+
+#: inc/class-checkout-econt.php:716
+#@ woocommerce-econt
+msgid "Econt Building Num."
+msgstr "Блок №"
+
+#: inc/class-checkout-econt.php:718
+#@ woocommerce-econt
+msgid "Econt Entrance"
+msgstr "Вход №"
+
+#: inc/class-checkout-econt.php:720
+#@ woocommerce-econt
+msgid "Econt Floor"
+msgstr "Етаж №"
+
+#: inc/class-checkout-econt.php:722
+#@ woocommerce-econt
+msgid "Econt Apartment"
+msgstr "Апартамент №"
+
+#: inc/class-checkout-econt.php:724
+#@ woocommerce-econt
+msgid "Econt Other"
+msgstr "Друго"
+
+#: inc/class-mysql-econt.php:954
+#@ woocommerce-econt
+msgid "error_connect_countries"
+msgstr "грешка_при_свързване_държави"
+
+#: inc/class-mysql-econt.php:987
+#@ woocommerce-econt
+msgid "error_connect cities_zones"
+msgstr "грешка_при_свързване области"
+
+#: inc/class-mysql-econt.php:1017
+#@ woocommerce-econt
+msgid "error_connect_cities_regions"
+msgstr "грешка_при_свързване_региони"
+
+#: inc/class-mysql-econt.php:1047
+#@ woocommerce-econt
+msgid "error_connect_cities_quarters"
+msgstr "грешка_при_свързване_квартали"
+
+#: inc/class-mysql-econt.php:1077
+#@ woocommerce-econt
+msgid "error_connect_cities_streets"
+msgstr "грешка_при_свързване_улици"
+
+#: inc/class-mysql-econt.php:1117
+#@ woocommerce-econt
+msgid "error_connect_offices"
+msgstr "грешка_при_свързване_офиси"
+
+#: inc/class-mysql-econt.php:1170
+#@ woocommerce-econt
+msgid "error_connect_cities"
+msgstr "грешка_при_свързване_градове"
+
+#: admin/class-order-econt.php:33
+#@ woocommerce-econt
+msgid "Econt Express - Order Viewer"
+msgstr "Еконт Експрес - Товарителница"
+
+#: admin/view/html-order-view.php:60
+#@ woocommerce-econt
+msgid "Weight:"
+msgstr "Тегло:"
+
+#: admin/class-sm-econt.php:348
+#@ woocommerce-econt
+msgid "Receiver"
+msgstr "Получател"
+
+#: admin/class-sm-econt.php:348
+#@ woocommerce-econt
+msgid "Sender"
+msgstr "Изпращач"
+
+#: admin/view/html-order-view.php:22
+#@ woocommerce-econt
+msgid "Send:"
+msgstr "Изпратете:"
+
+#: admin/view/html-order-view.php:402
+#@ woocommerce-econt
+msgid "Loading Details"
+msgstr "Подробности за товарителницата"
+
+#: admin/view/html-order-view.php:360
+#@ woocommerce-econt
+msgid "Description:"
+msgstr "Описание:"
+
+#: admin/view/html-order-view.php:368
+#@ woocommerce-econt
+msgid "Calculate Shipping Cost"
+msgstr "Изчисли стойността на доставка"
+
+#: admin/view/html-order-view.php:15
+#: admin/view/html-order-view.php:369
+#@ woocommerce-econt
+msgid "Create Loading"
+msgstr "Създай товарителница"
+
+#: admin/view/html-order-view.php:4
+#@ woocommerce-econt
+msgid "Products without weight:"
+msgstr "Продукти без въведено тегло:"
+
+#: admin/class-sm-econt.php:27
+#@ woocommerce-econt
+msgid "Econt Shipping Method"
+msgstr "Доставка с Еконт Експрес"
+
+#: admin/class-sm-econt.php:28
+#@ woocommerce-econt
+msgid "Ship you goods with Econt Express"
+msgstr "Доставяйте вашите продукти с Еконт Експрес"
+
+#: admin/class-sm-econt.php:123
+#: admin/class-sm-econt.php:138
+#: admin/class-sm-econt.php:141
+#: inc/view/html-checkout-view.php:89
+#@ woocommerce-econt
+msgid "please select"
+msgstr "моля изберете"
+
+#: admin/class-order-econt.php:356
+#: admin/class-sm-econt.php:215
+#@ woocommerce-econt
+msgid "p.c. "
+msgstr "п.к. "
+
+#: admin/class-order-econt.php:356
+#: admin/class-sm-econt.php:215
+#@ woocommerce-econt
+msgid ", t./v. "
+msgstr ", г./с. "
+
+#: admin/class-order-econt.php:356
+#: admin/class-sm-econt.php:215
+#@ woocommerce-econt
+msgid ", q.: "
+msgstr ",кв.: "
+
+#: admin/class-order-econt.php:356
+#: admin/class-sm-econt.php:215
+#@ woocommerce-econt
+msgid ", other "
+msgstr ", друго "
+
+#: admin/class-sm-econt.php:224
+#@ woocommerce-econt
+msgid "Enable/Disable"
+msgstr "Включете/Изключете"
+
+#: admin/class-sm-econt.php:226
+#@ woocommerce-econt
+msgid "Enable Econt Express Shipping Method"
+msgstr "Включете Еконт Експрес"
+
+#: admin/class-sm-econt.php:231
+#@ woocommerce-econt
+msgid "Title"
+msgstr "Заглавие"
+
+#: admin/class-sm-econt.php:233
+#@ woocommerce-econt
+msgid "This controls the title which the user sees during checkout."
+msgstr "Това поле се показва на клиентите при чекаут."
+
+#: admin/class-sm-econt.php:234
+#@ woocommerce-econt
+msgid "Econt Express Shipping Method"
+msgstr "Доставка с Еконт Експрес"
+
+#: admin/class-sm-econt.php:239
+#@ woocommerce-econt
+msgid "Customer Message"
+msgstr "Съобщение за клиента"
+
+#: admin/class-sm-econt.php:241
+#@ woocommerce-econt
+msgid "Checkout description"
+msgstr "Описание на чекаут"
+
+#: admin/class-sm-econt.php:242
+#@ woocommerce-econt
+msgid "Shipping your goods with Econt Express."
+msgstr "Доставка на продуктите Ви с Еконт Експрес."
+
+#: admin/class-sm-econt.php:245
+#@ woocommerce-econt
+msgid "Live or test?"
+msgstr "Реална или Тестова среда?"
+
+#: admin/class-sm-econt.php:248
+#@ woocommerce-econt
+msgid "Choose live or test API server"
+msgstr "Изберете реален или тестов API сървър."
+
+#: admin/class-sm-econt.php:252
+#@ woocommerce-econt
+msgid "username"
+msgstr "потребител"
+
+#: admin/class-sm-econt.php:254
+#@ woocommerce-econt
+msgid "Econt Express username"
+msgstr "Еконт Експрес потребител"
+
+#: admin/class-sm-econt.php:258
+#@ woocommerce-econt
+msgid "Password"
+msgstr "Парола"
+
+#: admin/class-sm-econt.php:260
+#@ woocommerce-econt
+msgid "Econt Express password."
+msgstr "Еконт Експрес парола."
+
+#: admin/class-sm-econt.php:264
+#@ woocommerce-econt
+msgid "Refresh Data"
+msgstr "Обнови данни"
+
+#: admin/class-sm-econt.php:266
+#@ woocommerce-econt
+msgid "Refresh"
+msgstr "Обнови"
+
+#: admin/class-sm-econt.php:267
+#@ woocommerce-econt
+msgid "Refresh Econt Express Ofices, Cities, Streets."
+msgstr "Обновете базата данни за Офиси, Градове и Улици на Еконт Експрес."
+
+#: admin/class-sm-econt.php:271
+#@ woocommerce-econt
+msgid "Company"
+msgstr "Фирма"
+
+#: admin/class-sm-econt.php:273
+#@ woocommerce-econt
+msgid "Your Company Name"
+msgstr "Името на вашата фирма"
+
+#: admin/class-sm-econt.php:277
+#: admin/view/html-order-view.php:517
+#: admin/view/html-order-view.php:635
+#@ woocommerce-econt
+msgid "Name"
+msgstr "Име"
+
+#: admin/class-sm-econt.php:279
+#@ woocommerce-econt
+msgid "Your Name"
+msgstr "Вашето име (две имена)"
+
+#: admin/class-sm-econt.php:283
+#@ woocommerce-econt
+msgid "phone"
+msgstr "телефон"
+
+#: admin/class-sm-econt.php:285
+#@ woocommerce-econt
+msgid "Your Phone registered in Econt Express account"
+msgstr "Вашият телефон регистриран в профила Ви в  Еконт Експрес."
+
+#: admin/class-sm-econt.php:289
+#@ woocommerce-econt
+msgid "Sender Address"
+msgstr "Адрес на изпращача"
+
+#: admin/class-sm-econt.php:292
+#@ woocommerce-econt
+msgid "The addresses are taken from your Econt Express profile at http://ee.econt.com. Choose one if you want to be able to send from your door."
+msgstr "Адресите се взимат от профила Ви в портала на Еконт Експрес на адрес:  http://ee.econt.com. Изберете от падащото меню ако желаете да изпращате от адрес."
+
+#: admin/class-sm-econt.php:296
+#@ woocommerce-econt
+msgid "Office Town"
+msgstr "Град за Еконт офис"
+
+#: admin/class-sm-econt.php:298
+#@ woocommerce-econt
+msgid "Choose Econt Express office town if you want to be able to send from office"
+msgstr "Изберете град Ако желаете да изпращате от офис на Еконт Експрес."
+
+#: admin/class-sm-econt.php:302
+#@ woocommerce-econt
+msgid "Econt Express Office Postcode"
+msgstr "Еконт Експрес Офис пощенски код"
+
+#: admin/class-sm-econt.php:304
+#@ woocommerce-econt
+msgid "Choose Econt Express office town postcode if you want to be able to send from office"
+msgstr "Изберете Еконт експрес офис пощенски код ако желаете да изпращате от офис."
+
+#: admin/class-sm-econt.php:308
+#@ woocommerce-econt
+msgid "Econt Express Office"
+msgstr "Еконт Експрес офис"
+
+#: admin/class-sm-econt.php:311
+#: admin/class-sm-econt.php:336
+#@ woocommerce-econt
+msgid "Choose Econt Express office if you want to be able to send from office"
+msgstr "Изберете Еконт Експрес офис ако желаете да изпращате от офис."
+
+#: admin/class-sm-econt.php:315
+#@ woocommerce-econt
+msgid "Econt Express Office Code"
+msgstr "Еконт Експрес Офис код"
+
+#: admin/class-sm-econt.php:382
+#@ woocommerce-econt
+msgid "Are you going to use an agreement for CD"
+msgstr "Ще използвате ли споразумение за събиране на наложен платеж"
+
+#: admin/class-sm-econt.php:385
+#@ woocommerce-econt
+msgid "If you are going to use and agreement for collecting your cashe on delivery please select it."
+msgstr "Ако ще използвате споразумение за събиране на наложените платежи, моля, изберете го."
+
+#: admin/class-sm-econt.php:389
+#@ woocommerce-econt
+msgid "Free shipping above this sum"
+msgstr "Безплатна доставка над тази сума"
+
+#: admin/class-sm-econt.php:392
+#@ woocommerce-econt
+msgid "Free shipping for orders above this sum if you whrite down 0 there will be no free shipping."
+msgstr "Безплатна доставка за поръчки над тази сума. Ако въведете 0 няма да има безплатна доставка."
+
+#. translators: plugin header field 'Name'
+#: woocommerce-econt.php:0
+#@ woocommerce-econt
+msgid "Econt Express - WooCommerce"
+msgstr "Еконт Експрес - WooCommerce"
+
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: woocommerce-econt.php:0
+#@ woocommerce-econt
+msgid "http://mreja.net"
+msgstr "http://mreja.net"
+
+#. translators: plugin header field 'Description'
+#: woocommerce-econt.php:0
+#@ woocommerce-econt
+msgid "Integrate Econt Express in WooCommerce and ship your goods."
+msgstr "Интегрирайте Еконт Експрес в Woocommerce и изпращайте вашите стоки."
+
+#. translators: plugin header field 'Author'
+#: woocommerce-econt.php:0
+#@ woocommerce-econt
+msgid "Martin Vasilev"
+msgstr "Мартин Василев"
+
+#. translators: plugin header field 'Version'
+#: woocommerce-econt.php:0
+#@ woocommerce-econt
+msgid "1.0.0"
+msgstr "1.0.0"
+
+#: admin/class-order-econt.php:40
+#@ woocommerce-econt
+msgid "Econt Express Woocommerce"
+msgstr "Еконт Експрес Woocommerce"
+
+#: admin/class-sm-econt.php:157
+#@ woocommerce-econt
+msgid ", address: "
+msgstr ", адрес: "
+
+#: admin/class-order-econt.php:274
+#: admin/class-order-econt.php:288
+#: admin/view/html-order-view.php:80
+#: admin/view/html-order-view.php:97
+#: admin/view/html-order-view.php:135
+#: admin/view/html-order-view.php:146
+#: admin/view/html-order-view.php:157
+#: admin/view/html-order-view.php:168
+#: admin/view/html-order-view.php:266
+#: admin/view/html-order-view.php:303
+#: admin/view/html-order-view.php:425
+#: admin/view/html-order-view.php:543
+#@ woocommerce-econt
+msgid "yes"
+msgstr "да"
+
+#: admin/class-order-econt.php:274
+#: admin/class-order-econt.php:288
+#: admin/view/html-order-view.php:81
+#: admin/view/html-order-view.php:96
+#: admin/view/html-order-view.php:134
+#: admin/view/html-order-view.php:145
+#: admin/view/html-order-view.php:156
+#: admin/view/html-order-view.php:167
+#: admin/view/html-order-view.php:265
+#: admin/view/html-order-view.php:302
+#: admin/view/html-order-view.php:427
+#: admin/view/html-order-view.php:545
+#@ woocommerce-econt
+msgid "no"
+msgstr "не"
+
+#: admin/view/html-order-view.php:29
+#@ woocommerce-econt
+msgid "from door"
+msgstr "от адрес"
+
+#: admin/class-sm-econt.php:769
+#@ woocommerce
+msgid "Free"
+msgstr ""
+
+#: inc/class-checkout-econt.php:333
+#: inc/class-checkout-econt.php:335
+#@ woocommerce-econt
+msgid "Invalid city name, street name or quarter name. Please start typing in the box , wait until the list appear and select city name, street name or quarter name from the list."
+msgstr "Невалидно име на град, име на улица или име на квартал. Моля, започнете да пишете в полето и изчакайте, докато списъка се появи, и изберете име на град, име на улица или име на квартал от списъка."
+
+#: admin/class-order-econt.php:320
+#: admin/class-order-econt.php:327
+#: admin/class-order-econt.php:334
+#: admin/class-order-econt.php:341
+#: admin/class-sm-econt.php:169
+#: admin/class-sm-econt.php:185
+#: admin/class-sm-econt.php:192
+#: admin/class-sm-econt.php:199
+#: admin/class-sm-econt.php:206
+#: admin/class-sm-econt.php:377
+#: admin/class-sm-econt.php:426
+#: admin/class-sm-econt.php:433
+#: admin/class-sm-econt.php:440
+#: admin/class-sm-econt.php:447
+#: admin/class-sm-econt.php:454
+#: admin/class-sm-econt.php:461
+#: admin/class-sm-econt.php:476
+#: admin/class-sm-econt.php:517
+#: admin/class-sm-econt.php:524
+#: admin/class-sm-econt.php:531
+#: admin/class-sm-econt.php:538
+#: admin/class-sm-econt.php:545
+#: admin/view/html-order-view.php:289
+#@ woocommerce-econt
+msgid "No"
+msgstr "Не"
+
+#: inc/class-checkout-econt.php:168
+#: inc/class-checkout-econt.php:189
+#: inc/class-checkout-econt.php:208
+#@ woocommerce-econt
+msgid "Town (Please, start typing and select from results.)"
+msgstr "Град (Моля, започнете да пишете и изберете от резултатите.)"
+
+#: inc/class-checkout-econt.php:214
+#@ woocommerce-econt
+msgid "Street (Please, start typing and select from results.)"
+msgstr "Улица (Моля, започнете да пишете и изберете от резултатите.)"
+
+#: inc/class-checkout-econt.php:217
+#@ woocommerce-econt
+msgid "Quarter (Please, start typing and select from results.)"
+msgstr "Квартал (Моля, започнете да пишете и изберете от резултатите.)"
+
+#: admin/view/html-order-view.php:26
+#@ woocommerce-econt
+msgid "from default office"
+msgstr "от офис по подразбиране"
+
+#: admin/view/html-order-view.php:27
+#@ woocommerce-econt
+msgid "from default door"
+msgstr "от адрес по подразбиране"
+
+#: inc/class-checkout-econt.php:664
+#@ woocommerce-econt
+msgid "Econt Shipping Cost:"
+msgstr "Еконт цена за доставка:"
+
+#: admin/class-sm-econt.php:738
+#@ woocommerce-econt
+msgid " to office"
+msgstr "до офис"
+
+#: inc/class-checkout-econt.php:235
+#@ woocommerce-econt
+msgid "If your address is not in the list please type it here:"
+msgstr "Ако адресът Ви го няма в списъка, моля, попълнете го тук:"
+
+#: admin/class-order-econt.php:267
+#: admin/class-order-econt.php:268
+#: admin/class-order-econt.php:269
+#: admin/class-order-econt.php:273
+#: admin/class-order-econt.php:281
+#: admin/class-order-econt.php:282
+#: admin/class-order-econt.php:283
+#: admin/class-order-econt.php:287
+#@ woocommerce-econt
+msgid "d/m/Y"
+msgstr "д/м/г"
+
+#: admin/class-order-econt.php:267
+#: admin/class-order-econt.php:268
+#: admin/class-order-econt.php:269
+#: admin/class-order-econt.php:273
+#: admin/class-order-econt.php:281
+#: admin/class-order-econt.php:282
+#: admin/class-order-econt.php:283
+#: admin/class-order-econt.php:287
+#@ woocommerce-econt
+msgid "hh:mm:ss"
+msgstr "чч:мм:сс"
+
+#: admin/class-order-econt.php:289
+#@ woocommerce-econt
+msgid "event"
+msgstr "Събитие:"
+
+#: admin/class-order-econt.php:306
+#@ woocommerce-econt
+msgid "before"
+msgstr "преди"
+
+#: admin/class-order-econt.php:307
+#@ woocommerce-econt
+msgid "in"
+msgstr "в"
+
+#: admin/class-order-econt.php:308
+#@ woocommerce-econt
+msgid "after"
+msgstr "след"
+
+#: admin/class-sm-econt.php:126
+#@ woocommerce-econt
+msgid "Cash"
+msgstr "В брой"
+
+#: admin/class-sm-econt.php:182
+#@ woocommerce-econt
+msgid "Voucher"
+msgstr "Ваучер"
+
+#: admin/class-sm-econt.php:183
+#@ woocommerce-econt
+msgid "Bonus points"
+msgstr "Бонус точки"
+
+#: admin/class-sm-econt.php:317
+#@ woocommerce-econt
+msgid "Choose Econt Express office code if you want to be able to send from office"
+msgstr "Изберете код на офис на Еконт Експрес ако искате да можете да изпращате от офис."
+
+#: admin/class-sm-econt.php:321
+#@ woocommerce-econt
+msgid "APS Town"
+msgstr "АПС Град"
+
+#: admin/class-sm-econt.php:323
+#@ woocommerce-econt
+msgid "Choose Econt Express office town if you want to be able to send from APS"
+msgstr "Изберете град на офис на Еконт Експрес ако искате да можете да изпращате от АПС"
+
+#: admin/class-sm-econt.php:327
+#@ woocommerce-econt
+msgid "Econt Express APS Postcode"
+msgstr "Пощенски код на АПС на Еконт Експрес"
+
+#: admin/class-sm-econt.php:329
+#@ woocommerce-econt
+msgid "Choose Econt Express APS town postcode if you want to be able to send from office"
+msgstr "Изберете пощенски код на градът, в който е АПС, от който искате да можете да изпращате"
+
+#: admin/class-sm-econt.php:333
+#@ woocommerce-econt
+msgid "Econt Express APS"
+msgstr "Еконт Експрес АПС"
+
+#: admin/class-sm-econt.php:340
+#@ woocommerce-econt
+msgid "Econt Express APS Code"
+msgstr "Еконт Експрес АПС код"
+
+#: admin/class-sm-econt.php:342
+#@ woocommerce-econt
+msgid "Choose Econt Express APS code if you want to be able to send from office"
+msgstr "Изберете код на АПС на Еконт Експрес ако искате да можете да изпращате от АПС"
+
+#: admin/class-sm-econt.php:346
+#: admin/class-sm-econt.php:349
+#@ woocommerce-econt
+msgid "Payment side"
+msgstr "Платец"
+
+#: admin/class-sm-econt.php:353
+#@ woocommerce-econt
+msgid "Choose the way you pay."
+msgstr "Изберете начина, по който желате да плащате."
+
+#: admin/class-sm-econt.php:356
+#@ woocommerce-econt
+msgid "When the shipping is payed by the sender if you pay on credit please chose your client number or Cash, Bonus points and Voucher"
+msgstr "Когато пратката се плаща от изпращача, ако плащате на кредит, моля, изберете номера на споразумение или в брой, с бонус точки и ваучер. "
+
+#: admin/class-sm-econt.php:375
+#: admin/class-sm-econt.php:378
+#@ woocommerce-econt
+msgid "Will you allow Cash on delivery"
+msgstr "Разрешавате ли плащане при доставка?"
+
+#: admin/class-sm-econt.php:377
+#: admin/class-sm-econt.php:426
+#: admin/class-sm-econt.php:433
+#: admin/class-sm-econt.php:440
+#: admin/class-sm-econt.php:447
+#: admin/class-sm-econt.php:454
+#: admin/class-sm-econt.php:461
+#: admin/class-sm-econt.php:476
+#: admin/class-sm-econt.php:517
+#: admin/class-sm-econt.php:524
+#: admin/class-sm-econt.php:531
+#: admin/class-sm-econt.php:545
+#@ woocommerce-econt
+msgid "Yes"
+msgstr "Да"
+
+#: admin/class-sm-econt.php:396
+#@ woocommerce-econt
+msgid "Free shipping above this count of items"
+msgstr "Безплатна доставка при брой на продукти по-голям от:"
+
+#: admin/class-sm-econt.php:399
+#@ woocommerce-econt
+msgid "Free shipping for orders above this count of items if you whrite down 0 there will be no free shipping."
+msgstr "Безплатна доставка за поръчки с брой продукти над въведената стойност. Ако въведете 0 няма да има безплатна доставка."
+
+#: admin/class-sm-econt.php:403
+#@ woocommerce-econt
+msgid "Free shipping above this weight"
+msgstr "Безплатна доставка над въведеното тегло в кг."
+
+#: admin/class-sm-econt.php:406
+#@ woocommerce-econt
+msgid "Free shipping for orders above this weight in kg if you whrite down 0 there will be no free shipping."
+msgstr "Безплатна доставка за поръчки с тегло над въведената стойност. Ако въведете 0 няма да има безплатна доставка."
+
+#: admin/class-sm-econt.php:410
+#@ woocommerce-econt
+msgid "Declared Value"
+msgstr "Обявена стойност"
+
+#: admin/class-sm-econt.php:413
+#@ woocommerce-econt
+msgid "0 = no \"DV\", 1 = Always \"DV\", 2...n =  The cost above which \"DV\" will be enabled"
+msgstr "0 = без обявена стойност, 1 = винаги да се използва обаявена стойност, 2...n = Стойност над която ще се активира обявена стойност."
+
+#: admin/class-sm-econt.php:417
+#@ woocommerce-econt
+msgid "Default send from"
+msgstr "По подразбиране ще изпращате от"
+
+#: admin/class-sm-econt.php:419
+#@ woocommerce-econt
+msgid "Door"
+msgstr "Адрес"
+
+#: admin/class-sm-econt.php:419
+#@ woocommerce-econt
+msgid "Machine"
+msgstr "АПС"
+
+#: admin/class-sm-econt.php:420
+#@ woocommerce-econt
+msgid "Chose from where you will send your goods by default: Econt Office or your address."
+msgstr "Изберете от къде ще изпращате поръчките по подразбиране. "
+
+#: admin/class-sm-econt.php:424
+#: admin/class-sm-econt.php:427
+#@ woocommerce-econt
+msgid "Offer your clients delivery to door"
+msgstr "Предложете на вашите клиенти изпращане до адрес."
+
+#: admin/class-sm-econt.php:431
+#: admin/class-sm-econt.php:434
+#@ woocommerce-econt
+msgid "Offer your clients delivery to Econt offices"
+msgstr "Предложете на вашите клиенти изпращане до офис на Еконт Експрес."
+
+#: admin/class-sm-econt.php:438
+#: admin/class-sm-econt.php:441
+#@ woocommerce-econt
+msgid "Offer your clients delivery to Econt machine offices"
+msgstr "Предложете на вашите клиенти изпращане до Еконт Експрес АПС"
+
+#: admin/class-sm-econt.php:445
+#: admin/class-sm-econt.php:448
+#@ woocommerce-econt
+msgid "Offer your customers express city courier delivery up to 60, 90 or 120 minutes"
+msgstr "Предложете на вашите клиенти услугата експресен градски куриер - доставка до 60, 90 или 120 мин. в рамките на града."
+
+#: admin/class-sm-econt.php:452
+#: admin/class-sm-econt.php:455
+#@ woocommerce-econt
+msgid "Attach a service acknowledgment"
+msgstr "Обратна разписка."
+
+#: admin/class-sm-econt.php:459
+#: admin/class-sm-econt.php:462
+#@ woocommerce-econt
+msgid "Attach a service acknowledgment/bill of goods"
+msgstr "Стокова разписка."
+
+#: admin/class-sm-econt.php:474
+#@ woocommerce-econt
+msgid "To add the service of delivering an invoice before paying cash on delivery"
+msgstr "Предай фактура преди плащане на наложения платеж"
+
+#: admin/class-sm-econt.php:477
+#@ woocommerce-econt
+msgid "To add the service of delivering an invoice before paying cash on delivery:"
+msgstr "Предай фактура преди плащане на наложения платеж"
+
+#: admin/class-sm-econt.php:481
+#: admin/class-sm-econt.php:484
+#@ woocommerce-econt
+msgid "Customer can pay after accepting or testing the goods"
+msgstr "Клиентите могат да платят след преглед или тест на поръчката."
+
+#: admin/class-sm-econt.php:483
+#: admin/view/html-order-view.php:110
+#@ woocommerce-econt
+msgid "None"
+msgstr "няма"
+
+#: admin/class-sm-econt.php:483
+#: admin/view/html-order-view.php:111
+#@ woocommerce-econt
+msgid "Accept"
+msgstr "преглед"
+
+#: admin/class-sm-econt.php:483
+#: admin/view/html-order-view.php:112
+#@ woocommerce-econt
+msgid "Test"
+msgstr "тест"
+
+#: admin/class-sm-econt.php:515
+#: admin/class-sm-econt.php:518
+#@ woocommerce-econt
+msgid "Attach a time priority"
+msgstr "Час за приоритет"
+
+#: admin/class-sm-econt.php:522
+#: admin/class-sm-econt.php:525
+#@ woocommerce-econt
+msgid "offer the customer a choice of day for delivery"
+msgstr "Предложете на клиентите Ви избор на ден за разнос"
+
+#: admin/class-sm-econt.php:529
+#: admin/class-sm-econt.php:532
+#@ woocommerce-econt
+msgid "offer the customer partial delivery"
+msgstr "Възможност за частична доставка"
+
+#: admin/class-sm-econt.php:536
+#: admin/class-sm-econt.php:539
+#@ woocommerce-econt
+msgid "Submission of packing list"
+msgstr "Подаване на опис"
+
+#: admin/class-sm-econt.php:538
+#@ woocommerce-econt
+msgid "Digital"
+msgstr "електронен"
+
+#: admin/class-sm-econt.php:538
+#@ woocommerce-econt
+msgid "Attached to the parcel"
+msgstr "приложен в пратката"
+
+#: admin/class-sm-econt.php:543
+#@ woocommerce-econt
+msgid "Ability to return the item already purchased"
+msgstr "Възможност за връщане на вече закупените продукти"
+
+#: admin/class-sm-econt.php:546
+#@ woocommerce-econt
+msgid "Ability to return the item already purchased:"
+msgstr "Възможност за връщане на вече закупените продукти:"
+
+#: admin/class-sm-econt.php:550
+#@ woocommerce-econt
+msgid "Choose take custom instructions"
+msgstr "За пратката ще се използват ли указания за приемане:"
+
+#: admin/class-sm-econt.php:553
+#@ woocommerce-econt
+msgid "Chose take custom instructions"
+msgstr "Изберете указания за приемане"
+
+#: admin/class-sm-econt.php:557
+#@ woocommerce-econt
+msgid "Choose give custom instructions"
+msgstr "Изберете указания за предаване"
+
+#: admin/class-sm-econt.php:560
+#@ woocommerce-econt
+msgid "Chose give custom instructions"
+msgstr "Изберете указания за предаване"
+
+#: admin/class-sm-econt.php:564
+#@ woocommerce-econt
+msgid "Choose return custom instructions"
+msgstr "Изберете указания за връщане"
+
+#: admin/class-sm-econt.php:567
+#@ woocommerce-econt
+msgid "Chose return custom instructions"
+msgstr "Изберете указания"
+
+#: admin/class-sm-econt.php:571
+#@ woocommerce-econt
+msgid "Choose custom instructions for services"
+msgstr "Изберете указания за услуги"
+
+#: admin/class-sm-econt.php:574
+#@ woocommerce-econt
+msgid "Chose custom instructions for services"
+msgstr "Изберете указания за услуги"
+
+#: admin/view/html-order-view.php:2
+#@ woocommerce-econt
+msgid "Please, add weight to the products in the list then you'll able to create Econt Express loading."
+msgstr "Моля, въведете тегло на продуктите в списъка и след това ще можете да генерирате товарителница."
+
+#: admin/view/html-order-view.php:5
+#: admin/view/html-order-view.php:326
+#@ woocommerce-econt
+msgid "product id"
+msgstr "id на продукт"
+
+#: admin/view/html-order-view.php:5
+#: admin/view/html-order-view.php:327
+#@ woocommerce-econt
+msgid "product name"
+msgstr "име на продукт"
+
+#: admin/view/html-order-view.php:7
+#@ woocommerce-econt
+msgid "Edit"
+msgstr "редактирай"
+
+#: admin/view/html-order-view.php:28
+#@ woocommerce-econt
+msgid "from default machine"
+msgstr "от АПС по подразбиране."
+
+#: admin/view/html-order-view.php:36
+#@ woocommerce-econt
+msgid "Sender Address:"
+msgstr "Адрес на изпращач:"
+
+#: admin/view/html-order-view.php:49
+#@ woocommerce-econt
+msgid "Payment Side:"
+msgstr "Платец:"
+
+#: admin/view/html-order-view.php:53
+#@ woocommerce-econt
+msgid "receiver"
+msgstr "получател"
+
+#: admin/view/html-order-view.php:54
+#@ woocommerce-econt
+msgid "sender"
+msgstr "изпращач"
+
+#: admin/view/html-order-view.php:68
+#@ woocommerce-econt
+msgid "Pack count:"
+msgstr "Брой пакети:"
+
+#: admin/view/html-order-view.php:76
+#@ woocommerce-econt
+msgid "Cash on delivery"
+msgstr "Плащане при доставка:"
+
+#: admin/view/html-order-view.php:83
+#: admin/view/html-order-view.php:99
+#@ woocommerce-econt
+msgid "amount: "
+msgstr "сума:"
+
+#: admin/view/html-order-view.php:92
+#@ woocommerce-econt
+msgid "Declared Value:"
+msgstr "Обявена стойност:"
+
+#: admin/view/html-order-view.php:106
+#@ woocommerce-econt
+msgid "Pay after:"
+msgstr "Плати след:"
+
+#: admin/view/html-order-view.php:118
+#@ woocommerce-econt
+msgid "Dispose to refuse shipment after review:"
+msgstr "разпореждам при отказ на пратка след преглед:"
+
+#: admin/view/html-order-view.php:122
+#@ woocommerce-econt
+msgid "none"
+msgstr "няма"
+
+#: admin/view/html-order-view.php:123
+#@ woocommerce-econt
+msgid "returns"
+msgstr "връщането да е за моя сметка"
+
+#: admin/view/html-order-view.php:124
+#@ woocommerce-econt
+msgid "shipping returns"
+msgstr "доставката и връщането да са за моя сметка"
+
+#: admin/view/html-order-view.php:130
+#@ woocommerce-econt
+msgid "SMS on delivery:"
+msgstr "SMS при доставка:"
+
+#: admin/view/html-order-view.php:141
+#@ woocommerce-econt
+msgid "Invoice before Cash on Delivery:"
+msgstr "Предай фактура преди плащане на наложения платеж:"
+
+#: admin/view/html-order-view.php:152
+#@ woocommerce-econt
+msgid "Attach a service acknowledgment:"
+msgstr "Обратна разписка:"
+
+#: admin/view/html-order-view.php:163
+#@ woocommerce-econt
+msgid "Attach a service acknowledgment/bill of goods:"
+msgstr "Стокова разписка:"
+
+#: admin/view/html-order-view.php:174
+#@ woocommerce-econt
+msgid "Instructions take:"
+msgstr "Инструкции при предаване:"
+
+#: admin/view/html-order-view.php:186
+#@ woocommerce-econt
+msgid "Instructions give:"
+msgstr "Инструкции при получаване:"
+
+#: admin/view/html-order-view.php:198
+#@ woocommerce-econt
+msgid "Instructions return:"
+msgstr "Инструкции при връшане:"
+
+#: admin/view/html-order-view.php:210
+#@ woocommerce-econt
+msgid "Instructions Services:"
+msgstr "Инструкции за услуги:"
+
+#: admin/view/html-order-view.php:228
+#@ woocommerce-econt
+msgid "priority time"
+msgstr "Час за приоритет:"
+
+#: admin/view/html-order-view.php:230
+#: admin/view/html-order-view.php:276
+#: admin/view/html-order-view.php:313
+#@ woocommerce-econt
+msgid "choose"
+msgstr "изберете"
+
+#: admin/view/html-order-view.php:249
+#@ woocommerce-econt
+msgid "hour"
+msgstr "час"
+
+#: admin/view/html-order-view.php:261
+#@ woocommerce-econt
+msgid "Express City Courier"
+msgstr "Експресен градски куриер:"
+
+#: admin/view/html-order-view.php:272
+#@ woocommerce-econt
+msgid "Express City Courier Type"
+msgstr "Тип ескпресен градски куриер"
+
+#: admin/view/html-order-view.php:277
+#: inc/class-checkout-econt.php:242
+#@ woocommerce-econt
+msgid "up to 60 minutes"
+msgstr "до 60 минути"
+
+#: admin/view/html-order-view.php:278
+#: inc/class-checkout-econt.php:242
+#@ woocommerce-econt
+msgid "up to 90 minutes"
+msgstr "до 90 минути"
+
+#: admin/view/html-order-view.php:279
+#: inc/class-checkout-econt.php:242
+#@ woocommerce-econt
+msgid "up to 120 minutes"
+msgstr "до 120 минути"
+
+#: admin/view/html-order-view.php:285
+#@ woocommerce-econt
+msgid "Delivery Days:"
+msgstr "Ден за разнос:"
+
+#: admin/view/html-order-view.php:298
+#@ woocommerce-econt
+msgid "Partial Delivery:"
+msgstr "Частична доставка:"
+
+#: admin/view/html-order-view.php:309
+#@ woocommerce-econt
+msgid "List Type:"
+msgstr "Тип списък:"
+
+#: admin/view/html-order-view.php:314
+#@ woocommerce-econt
+msgid "digital"
+msgstr "електронен"
+
+#: admin/view/html-order-view.php:315
+#@ woocommerce-econt
+msgid "loading"
+msgstr "приложен в пратката"
+
+#: admin/view/html-order-view.php:319
+#@ woocommerce-econt
+msgid "You must print an inventory shipping list and attach it to the loading."
+msgstr "Трябва да принтирате списък с изпращаните артикули и да го прикрепите към пратката."
+
+#: admin/view/html-order-view.php:328
+#@ woocommerce-econt
+msgid "product weight"
+msgstr "тегло на продукта"
+
+#: admin/view/html-order-view.php:329
+#@ woocommerce-econt
+msgid "product price"
+msgstr "цена на продукта"
+
+#: admin/view/html-order-view.php:336
+#@ woocommerce-econt
+msgid "add"
+msgstr "добави"
+
+#: admin/view/html-order-view.php:344
+#@ woocommerce-econt
+msgid "qty"
+msgstr "количество"
+
+#: admin/view/html-order-view.php:347
+#: admin/view/html-order-view.php:775
+#@ woocommerce-econt
+msgid "remove"
+msgstr "премахни"
+
+#: admin/view/html-order-view.php:370
+#: admin/view/html-order-view.php:663
+#@ woocommerce-econt
+msgid "Request for courier"
+msgstr "Заявете куриер"
+
+#: admin/view/html-order-view.php:403
+#: admin/view/html-order-view.php:419
+#@ woocommerce-econt
+msgid "Loading number:"
+msgstr "номер на товарителница:"
+
+#: admin/view/html-order-view.php:404
+#@ woocommerce-econt
+msgid "Loading shipping cost:"
+msgstr "Цена за доставка:"
+
+#: admin/view/html-order-view.php:405
+#@ woocommerce-econt
+msgid "Loading shipping cost to be paid by the customer:"
+msgstr "Цена за доставка, която ще плати получателя:"
+
+#: admin/view/html-order-view.php:423
+#: admin/view/html-order-view.php:541
+#@ woocommerce-econt
+msgid "Is imported"
+msgstr "Задействана:"
+
+#: admin/view/html-order-view.php:431
+#: admin/view/html-order-view.php:549
+#@ woocommerce-econt
+msgid "Storage"
+msgstr "Името на офиса или линията, в която в момента се намира пратката:"
+
+#: admin/view/html-order-view.php:435
+#: admin/view/html-order-view.php:553
+#@ woocommerce-econt
+msgid "Receiver person"
+msgstr "Лице получило пратката:"
+
+#: admin/view/html-order-view.php:439
+#@ woocommerce-econt
+msgid "Receiver person phone"
+msgstr "Телефон на получателя:"
+
+#: admin/view/html-order-view.php:443
+#@ woocommerce-econt
+msgid "Receiver Courier"
+msgstr "Служител предал пратката:"
+
+#: admin/view/html-order-view.php:447
+#@ woocommerce-econt
+msgid "Receiver Courier phone"
+msgstr "Телефон на служителя предал пратката:"
+
+#: admin/view/html-order-view.php:451
+#@ woocommerce-econt
+msgid "Receiver Time"
+msgstr "Време на предаване на пратката към клиента:"
+
+#: admin/view/html-order-view.php:455
+#@ woocommerce-econt
+msgid "Receiver cd get sum"
+msgstr "Събрана сума от наложен платеж по пратката:"
+
+#: admin/view/html-order-view.php:459
+#@ woocommerce-econt
+msgid "Receiver cd get time "
+msgstr "Време на събиране на наложения платеж:"
+
+#: admin/view/html-order-view.php:463
+#@ woocommerce-econt
+msgid "Receiver cd send sum"
+msgstr "Изплатена сума на наложния платеж по пратката:"
+
+#: admin/view/html-order-view.php:467
+#@ woocommerce-econt
+msgid "Receiver cd send time"
+msgstr "Време на изплащане на наложения платеж:"
+
+#: admin/view/html-order-view.php:471
+#@ woocommerce-econt
+msgid "Total sum"
+msgstr "Стойност на пратката:"
+
+#: admin/view/html-order-view.php:475
+#: admin/view/html-order-view.php:593
+#@ woocommerce-econt
+msgid "Sender amount due"
+msgstr "Дължима сума от подателя:"
+
+#: admin/view/html-order-view.php:479
+#: admin/view/html-order-view.php:597
+#@ woocommerce-econt
+msgid "Receiver amount due"
+msgstr "Дължима сума от получателя:"
+
+#: admin/view/html-order-view.php:483
+#: admin/view/html-order-view.php:601
+#@ woocommerce-econt
+msgid "Other amount due"
+msgstr "Дължима сума от 3-та страна:"
+
+#: admin/view/html-order-view.php:487
+#: admin/view/html-order-view.php:605
+#@ woocommerce-econt
+msgid "Delivery attempt count"
+msgstr "Брой опити за разнос на пратката:"
+
+#: admin/view/html-order-view.php:491
+#@ woocommerce-econt
+msgid "Blank yes"
+msgstr "PDF-a за товарителницата върху бланка:"
+
+#: admin/view/html-order-view.php:493
+#: admin/view/html-order-view.php:499
+#: admin/view/html-order-view.php:505
+#: admin/view/html-order-view.php:611
+#: admin/view/html-order-view.php:617
+#: admin/view/html-order-view.php:623
+#@ woocommerce-econt
+msgid "View"
+msgstr "Преглед"
+
+#: admin/view/html-order-view.php:497
+#@ woocommerce-econt
+msgid "Blank no"
+msgstr "PDF-a за товарителницата без бланка:"
+
+#: admin/view/html-order-view.php:504
+#: admin/view/html-order-view.php:622
+#@ woocommerce-econt
+msgid "PDF URL"
+msgstr "PDF-a за товарителницата:"
+
+#: admin/view/html-order-view.php:510
+#: admin/view/html-order-view.php:628
+#@ woocommerce-econt
+msgid "Tracking"
+msgstr "Тракинг на пратката:"
+
+#: admin/view/html-order-view.php:514
+#: admin/view/html-order-view.php:632
+#@ woocommerce-econt
+msgid "Time"
+msgstr "Време на събитието:"
+
+#: admin/view/html-order-view.php:515
+#: admin/view/html-order-view.php:633
+#@ woocommerce-econt
+msgid "Is receipt"
+msgstr "Движение на обратна разписка ли е:"
+
+#: admin/view/html-order-view.php:516
+#: admin/view/html-order-view.php:634
+#@ woocommerce-econt
+msgid "Event"
+msgstr "Събитие:"
+
+#: admin/view/html-order-view.php:533
+#@ woocommerce-econt
+msgid "Next Parcels"
+msgstr "Последвали пратки:"
+
+#: admin/view/html-order-view.php:537
+#@ woocommerce-econt
+msgid "Loading Number"
+msgstr "Номер на товарителница"
+
+#: admin/view/html-order-view.php:557
+#@ woocommerce-econt
+msgid "Receiver person Phone"
+msgstr "Телефон на получателя:"
+
+#: admin/view/html-order-view.php:561
+#@ woocommerce-econt
+msgid "Receiver courier"
+msgstr "Служител предал пратката:"
+
+#: admin/view/html-order-view.php:565
+#@ woocommerce-econt
+msgid "Receiver courier phone"
+msgstr "Телефон на служителя предал пратката:"
+
+#: admin/view/html-order-view.php:569
+#@ woocommerce-econt
+msgid "Receiver time"
+msgstr "Време на предаване на пратката към клиента:"
+
+#: admin/view/html-order-view.php:573
+#@ woocommerce-econt
+msgid "Cash on delivery get sum"
+msgstr "Събрана сума от наложен платеж по пратката:"
+
+#: admin/view/html-order-view.php:577
+#@ woocommerce-econt
+msgid "Cash on delivery get time"
+msgstr "Време на предаване на пратката към клиента:"
+
+#: admin/view/html-order-view.php:581
+#@ woocommerce-econt
+msgid "Cash on delivery send sum"
+msgstr "Изплатена сума на наложния платеж по пратката:"
+
+#: admin/view/html-order-view.php:585
+#@ woocommerce-econt
+msgid "Cash on delivery send time"
+msgstr "Време на изплащане на наложения платеж:"
+
+#: admin/view/html-order-view.php:589
+#@ woocommerce-econt
+msgid "total sum"
+msgstr "Стойност на пратката:"
+
+#: admin/view/html-order-view.php:609
+#@ woocommerce-econt
+msgid "blank yes"
+msgstr "PDF-a за товарителницата върху бланка:"
+
+#: admin/view/html-order-view.php:615
+#@ woocommerce-econt
+msgid "blank no"
+msgstr "PDF-a за товарителницата без бланка:"
+
+#: admin/view/html-order-view.php:660
+#@ woocommerce-econt
+msgid "Delete loading"
+msgstr "Изтрий товарителницата"
+
+#: inc/class-ajax-econt.php:159
+#@ woocommerce-econt
+msgid "calculating"
+msgstr "Поръчката се обработва"
+
+#: inc/class-ajax-econt.php:732
+#@ woocommerce-econt
+msgid "free shipping"
+msgstr "безплатна доставка"
+
+#: inc/class-checkout-econt.php:157
+#@ woocommerce-econt
+msgid "to APS"
+msgstr "до АПС"
+
+#: inc/class-checkout-econt.php:179
+#: inc/class-checkout-econt.php:245
+#@ woocommerce-econt
+msgid "We offer our customers partial delivery."
+msgstr "Ние предлагане на нашите клиенти частична доставка."
+
+#: inc/class-checkout-econt.php:238
+#@ woocommerce-econt
+msgid "Delivery Days"
+msgstr "Ден за разнос:"
+
+#: inc/class-checkout-econt.php:242
+#@ woocommerce-econt
+msgid "Express city courier"
+msgstr "Експресен градски куриер"
+
+#: inc/class-checkout-econt.php:253
+#@ woocommerce-econt
+msgid "Econt Customer Shipping Cost:"
+msgstr "Цена на доставка с Еконт, която ще се заплати от получателя:"
+
+#: inc/class-checkout-econt.php:253
+#@ woocommerce-econt
+msgid "Enter Customer Shipping Cost"
+msgstr "Въведете цена на доставка с Еконт, която ще се заплати от получателя"
+
+#: inc/class-checkout-econt.php:255
+#@ woocommerce-econt
+msgid "Econt Totam Shipping Cost:"
+msgstr "Обща цена на доставка с Еконт Експрес:"
+
+#: inc/class-checkout-econt.php:255
+#@ woocommerce-econt
+msgid "Econt Total Shipping Cost"
+msgstr "Обща цена на доставка с Еконт Експрес"
+
+#: inc/class-checkout-econt.php:267
+#@ woocommerce-econt
+msgid "Calculate Loading"
+msgstr "Изчисли стойността на доставка."
+
+#: inc/class-checkout-econt.php:485
+#@ woocommerce-econt
+msgid "Econt Machine"
+msgstr "АПС"
+
+#: inc/class-checkout-econt.php:486
+#@ woocommerce-econt
+msgid "econt_machines_postcode"
+msgstr "пощенски код на АПС"
+
+#: inc/class-checkout-econt.php:590
+#@ woocommerce-econt
+msgid "Econt APS:"
+msgstr "Еконт АПС:"
+
+#: inc/class-checkout-econt.php:702
+#@ woocommerce-econt
+msgid "Econt APS"
+msgstr "Еконт АПС"
+
+#: inc/class-checkout-econt.php:726
+#@ woocommerce-econt
+msgid "Econt Shipping Cost"
+msgstr "Еконт цена на доставка"
+
+#: inc/class-mysql-econt.php:1733
+#@ woocommerce-econt
+msgid "with priority: "
+msgstr "с приоритет:"
+
+#: inc/view/html-checkout-view.php:3
+#@ woocommerce-econt
+msgid "office locator"
+msgstr "офис локатор"
+
+#: admin/class-order-econt.php:503
+#@ woocommerce-econt
+msgid "Econt Loading"
+msgstr "Еконт пратка"
+
+#: admin/class-order-econt.php:529
+#@ woocommerce-econt
+msgid "prepare loading"
+msgstr "подгответе пратка"
+
+#: admin/class-sm-econt.php:610
+#@ woocommerce-econt
+msgid "Shipping Payments"
+msgstr "Плащане на цената за доставка"
+
+#: admin/class-sm-econt.php:616
+#@ woocommerce-econt
+msgid "Order Cost Above:"
+msgstr "Стойност на поръчката над:"
+
+#: admin/class-sm-econt.php:617
+#@ woocommerce-econt
+msgid "The customer will pay for shipping to door:"
+msgstr "Клиентът ще заплати за доставка до адрес:"
+
+#: admin/class-sm-econt.php:618
+#@ woocommerce-econt
+msgid "The customer will pay for shipping to office or APS"
+msgstr "Клиентът ще заплати за доставка до Еконт Експрес офис или АПС:"
+
+#: admin/class-sm-econt.php:641
+#@ woocommerce-econt
+msgid "+ Add Row"
+msgstr "+ Добавете ред"
+
+#: admin/class-sm-econt.php:641
+#@ woocommerce-econt
+msgid "Remove selected Row(s)"
+msgstr "Премахнете избрания Ред (Редове)"
+
+#: inc/class-checkout-econt.php:671
+#@ woocommerce-econt
+msgid "Generate loading to return the received order:"
+msgstr "Подгответе товарителница за връщане на доставена поръчка:"
+

@@ -1,0 +1,84 @@
+# Translation of Transliterado to English from Esperanto
+# Vladimir Vitkov <vvitkov@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: Transliterado 0.1\n"
+"Report-Msgid-Bugs-To: bertilow@gmail.com\n"
+"POT-Creation-Date: 2010-03-16 09:24+0900\n"
+"PO-Revision-Date: 2010-03-16 20:42+0900\n"
+"Last-Translator: Vladimir Vitkov <vvitkov@gmail.com\n"
+"Language-Team: Bulgarian <vvitkov@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: transliterado.php:12
+msgid "Specialaj signoj"
+msgstr "Специални знаци"
+
+#: transliterado.php:13
+msgid "Simpligo de haltostrekoj kaj aliaj specialaj signoj"
+msgstr "Опростяване на тирета и специални знаци"
+
+#: transliterado.php:63
+msgid ""
+"Ĉi tie vi povas elekti, kiuj transliteradaj sistemoj estu uzataj en la URL-"
+"nomoj de novaj afiŝoj kaj paĝoj. Ne elektu pli da sistemoj ol vi vere "
+"bezonas. Atentu, ke iuj sistemoj koncernas la samajn signojn, kaj do povas "
+"interkolizii."
+msgstr "Тук можете да изберете системи за транслитерация на за нови страници "
+"и публикации. Не избирайте повече системи от колкото наистина са ви нужни. "
+"Някои системи за транслитерация се препокриват и това може да доведе до колизии."
+
+#: transliterado.php:80
+msgid "La elektoj estas konservitaj."
+msgstr "Настройките бяха запазени."
+
+#: transliterado.php:102
+msgid ""
+"La malnovaj URL-nomoj de afiŝoj kaj paĝoj estas ŝanĝitaj laŭ tiuj elektoj."
+msgstr ""
+"Старите окончания на публикации и страници бяха обновени."
+
+#: transliterado.php:114
+msgid ""
+"La malnovaj URL-nomoj de etikedoj kaj kategorioj (ankaŭ ligilo-kategorioj) "
+"estas ŝanĝitaj laŭ tiuj elektoj."
+msgstr ""
+"Окончанията на тагове и категории (включително и за връзките) бяха "
+"променени според настройките."
+
+#: transliterado.php:145
+msgid "Ŝanĝi malnovajn afiŝojn/paĝojn"
+msgstr "Промени окончанията на стари страници и публикации"
+
+#: transliterado.php:147
+msgid ""
+"Se vi elektos <em>Ŝanĝi malnovajn afiŝojn/paĝojn</em>, estos ŝanĝitaj la URL-"
+"nomoj de ĉiuj jam publikigitaj afiŝoj kaj paĝoj laŭ la novaj elektoj. "
+"Ligiloj, kiuj uzas la malnovajn URL-nomojn, tamen restos plu funkciantaj."
+msgstr ""
+"Ако изберете <em>Промени окончанията на стари страници и публикации</em> за"
+"вече публикувани такива. Те ще бъдат променени според настройките. "
+"Старите връзки ще останат функционални."
+
+#: transliterado.php:151
+msgid "Ŝanĝi malnovajn etikedojn/kategoriojn"
+msgstr "Промени окончанията на стари тагове/категории"
+
+#: transliterado.php:153
+msgid ""
+"Se vi elektos <em>Ŝanĝi malnovajn etikedojn/kategoriojn</em>, estos ŝanĝitaj "
+"la URL-nomoj de ĉiuj jam ekzistantaj etikedoj kaj kategorioj (ankaŭ ligilo-"
+"kategorioj) laŭ la novaj elektoj. <strong>Ligiloj, kiuj uzas la malnovajn "
+"URL-nomojn de tiuj etikedoj kaj kategorioj, <em>ne plu funkcios</em></"
+"strong>. Pripensu do bone antaŭ ol elekti tiun ĉi eblon."
+msgstr ""
+"Ако изберете <em>Промени окончанията на стари тагове/категории</em>, за съществуващи такива "
+"те ще бъдат променени според избраните настройки. "
+"<strong>Връзки към тези категории/тагове <em>ще престанат да работят</em></strong>. "
+"Така че помислете внимателно преди да използвате тази опция."
+
+#: transliterado.php:157
+msgid "Konservi"
+msgstr "Запази"

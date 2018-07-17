@@ -1,0 +1,83 @@
+<?xml version="1.0" ?><parcels><client>
+<username>smetalo</username>
+<password>musikman80</password>
+</client>
+<system>
+<request_type>shipping</request_type>
+<response_type>XML</response_type>
+<only_calculate>1</only_calculate>
+<validate>0</validate>
+</system>
+<loadings>
+<row>
+<sender>
+<name>Сметало ЕООД</name>
+<name_person>Иво Минчев</name_person>
+<phone_num>0878560690</phone_num>
+<city>Русе</city>
+<post_code>7000</post_code>
+<office_code>7027</office_code>
+</sender>
+<receiver>
+<name></name>
+<name_person> </name_person>
+<phone_num></phone_num>
+<city>Варна</city>
+<post_code>9000</post_code>
+<office_code>9035</office_code>
+<street></street>
+<quarter></quarter>
+<street_num></street_num>
+<street_bl></street_bl>
+<street_vh></street_vh>
+<street_et></street_et>
+<street_ap></street_ap>
+<street_other></street_other>
+<sms_no></sms_no>
+</receiver>
+<shipment>
+<shipment_type>PACK</shipment_type>
+<description></description>
+<pack_count>1</pack_count>
+<weight>1</weight>
+<tariff_code>2</tariff_code>
+<tariff_sub_code>OFFICE_OFFICE</tariff_sub_code>
+<pay_after_accept>0</pay_after_accept>
+<pay_after_test>1</pay_after_test>
+<instruction_returns>0</instruction_returns>
+<invoice_before_pay_CD>0</invoice_before_pay_CD>
+<delivery_day></delivery_day>
+</shipment>
+<services>
+<p type=""></p>
+<e1></e1>
+<e2></e2>
+<e3></e3>
+<dc></dc>
+<dc_cp></dc_cp>
+<cd type="GET">89</cd>
+<cd_currency>BGN</cd_currency>
+<cd_agreement_num>СФ6641П1</cd_agreement_num>
+<oc>89</oc>
+<oc_currency>BGN</oc_currency>
+</services>
+<packing_list>
+<type>LOADING</type>
+</packing_list>
+<instructions>
+
+<e>
+<type>return</type>
+<template>Връщане на пратка</template>
+</e>
+</instructions>
+<payment>
+<side>RECEIVER</side>
+<method>CASH</method>
+<receiver_share_sum>0.00</receiver_share_sum>
+<share_percent></share_percent>
+</payment>
+<mediator>mrejanet</mediator>
+</row>
+</loadings>
+</parcels>

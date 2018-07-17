@@ -1,0 +1,84 @@
+# Translation of Transliterado to English from Esperanto
+# Bertilo Wennergren <bertilow@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: Transliterado 0.1\n"
+"Report-Msgid-Bugs-To: bertilow@gmail.com\n"
+"POT-Creation-Date: 2008-04-01 09:24+0900\n"
+"PO-Revision-Date: 2008-04-19 20:42+0900\n"
+"Last-Translator: Bertilo Wennergren <bertilow@gmail.com>\n"
+"Language-Team: English <bertilow@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: transliterado.php:12
+msgid "Specialaj signoj"
+msgstr "Special characters"
+
+#: transliterado.php:13
+msgid "Simpligo de haltostrekoj kaj aliaj specialaj signoj"
+msgstr "Simplify dashes and other special characters"
+
+#: transliterado.php:63
+msgid ""
+"Ĉi tie vi povas elekti, kiuj transliteradaj sistemoj estu uzataj en la URL-"
+"nomoj de novaj afiŝoj kaj paĝoj. Ne elektu pli da sistemoj ol vi vere "
+"bezonas. Atentu, ke iuj sistemoj koncernas la samajn signojn, kaj do povas "
+"interkolizii."
+msgstr "Here! you can choose transliteration systems to use in slugs for new post "
+"and pages. Don't choose more systems than you really need. Note that some "
+"systems cover the same characters, which can give rise to collisions."
+
+#: transliterado.php:80
+msgid "La elektoj estas konservitaj."
+msgstr "The settings have been stored."
+
+#: transliterado.php:102
+msgid ""
+"La malnovaj URL-nomoj de afiŝoj kaj paĝoj estas ŝanĝitaj laŭ tiuj elektoj."
+msgstr ""
+"All old post slugs and page slugs have been changed according to those settings."
+
+#: transliterado.php:114
+msgid ""
+"La malnovaj URL-nomoj de etikedoj kaj kategorioj (ankaŭ ligilo-kategorioj) "
+"estas ŝanĝitaj laŭ tiuj elektoj."
+msgstr ""
+"All old tag slugs and category slugs (link category slugs as well) have "
+"been changed according to those settings."
+
+#: transliterado.php:145
+msgid "Ŝanĝi malnovajn afiŝojn/paĝojn"
+msgstr "Change old slugs for posts/pages"
+
+#: transliterado.php:147
+msgid ""
+"Se vi elektos <em>Ŝanĝi malnovajn afiŝojn/paĝojn</em>, estos ŝanĝitaj la URL-"
+"nomoj de ĉiuj jam publikigitaj afiŝoj kaj paĝoj laŭ la novaj elektoj. "
+"Ligiloj, kiuj uzas la malnovajn URL-nomojn, tamen restos plu funkciantaj."
+msgstr ""
+"If you choose <em>Change old slugs for posts/pages</em>, slugs for already "
+"published posts and pages will be changed according to the new settings. Links "
+"that use the old slugs will however remain functional."
+
+#: transliterado.php:151
+msgid "Ŝanĝi malnovajn etikedojn/kategoriojn"
+msgstr "Change old slugs for tags/categories"
+
+#: transliterado.php:153
+msgid ""
+"Se vi elektos <em>Ŝanĝi malnovajn etikedojn/kategoriojn</em>, estos ŝanĝitaj "
+"la URL-nomoj de ĉiuj jam ekzistantaj etikedoj kaj kategorioj (ankaŭ ligilo-"
+"kategorioj) laŭ la novaj elektoj. <strong>Ligiloj, kiuj uzas la malnovajn "
+"URL-nomojn de tiuj etikedoj kaj kategorioj, <em>ne plu funkcios</em></"
+"strong>. Pripensu do bone antaŭ ol elekti tiun ĉi eblon."
+msgstr ""
+"If you choose <em>Change old slugs for tags/categories</em>, slugs for already "
+"created tags and categories will be changed according to the new settings. "
+"<strong>Links that use the old slugs <em>will not work anymore</em></strong>. "
+"So think carefully before using this option."
+
+#: transliterado.php:157
+msgid "Konservi"
+msgstr "Save"

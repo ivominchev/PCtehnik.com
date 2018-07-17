@@ -1,0 +1,88 @@
+# Translation of Transliterado to German from Esperanto
+# Bertilo Wennergren <bertilow@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: Transliterado 0.1\n"
+"Report-Msgid-Bugs-To: bertilow@gmail.com\n"
+"POT-Creation-Date: 2008-04-01 09:24+0900\n"
+"PO-Revision-Date: 2008-04-19 20:46+0900\n"
+"Last-Translator: Bertilo Wennergren <bertilow@gmail.com>\n"
+"Language-Team: German <bertilow@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: transliterado.php:12
+msgid "Specialaj signoj"
+msgstr "Sonderzeichen"
+
+#: transliterado.php:13
+msgid "Simpligo de haltostrekoj kaj aliaj specialaj signoj"
+msgstr "Vereinfachung von Strichen und anderen Sonderzeichen"
+
+#: transliterado.php:68
+msgid ""
+"Ĉi tie vi povas elekti, kiuj transliteradaj sistemoj estu uzataj en la URL-"
+"nomoj de novaj afiŝoj kaj paĝoj. Ne elektu pli da sistemoj ol vi vere "
+"bezonas. Atentu, ke iuj sistemoj koncernas la samajn signojn, kaj do povas "
+"interkolizii."
+msgstr ""
+"Hier können Sie wählen, welche Transliterationssysteme für die URL-Formen von "
+"neuen Artikel- und Seitentiteln verwendet werden sollen. Bitte aktivieren Sie "
+"nicht mehr Systeme als Sie wirklich brauchen. Beachten Sie, dass einige Zeichen "
+"in mehrere Systemen verwendet werden, was zu Verwirrungen führen kann."
+
+#: transliterado.php:80
+msgid "La elektoj estas konservitaj."
+msgstr "Die Einstellungen wurden gespeichert."
+
+#: transliterado.php:102
+msgid ""
+"La malnovaj URL-nomoj de afiŝoj kaj paĝoj estas ŝanĝitaj laŭ tiuj elektoj."
+msgstr ""
+"Die URL-Formen älterer Artikel- und Seitentitel wurden mit diesen "
+"Einstellungen geändert."
+
+#: transliterado.php:114
+msgid ""
+"La malnovaj URL-nomoj de etikedoj kaj kategorioj (ankaŭ ligilo-kategorioj) "
+"estas ŝanĝitaj laŭ tiuj elektoj."
+msgstr ""
+"Die URL-Formen älterer Schlagwörter und Kategorien wurden mit diesen "
+"Einstellungen geändert."
+
+#: transliterado.php:145
+msgid "Ŝanĝi malnovajn afiŝojn/paĝojn"
+msgstr "URL-Formen älterer Artikel- und Seitentitel ändern"
+
+#: transliterado.php:147
+msgid ""
+"Se vi elektos <em>Ŝanĝi malnovajn afiŝojn/paĝojn</em>, estos ŝanĝitaj la URL-"
+"nomoj de ĉiuj jam publikigitaj afiŝoj kaj paĝoj laŭ la novaj elektoj. "
+"Ligiloj, kiuj uzas la malnovajn URL-nomojn, tamen restos plu funkciantaj."
+msgstr ""
+"Wenn Sie <em>URL-Formen älterer Artikel- und Seitentitel ändern</em> "
+"wählen, werden die URL-Formen schon veröffentlichter Artikel und Seiten "
+"entsprechend den neuen Einstellungen geändert. Links, die ältere URL-Formen "
+"benutzen, bleiben trotzdem aktuell."
+
+#: transliterado.php:151
+msgid "Ŝanĝi malnovajn etikedojn/kategoriojn"
+msgstr "URL-Formen älterer Schlagwörter und Kategorien ändern"
+
+#: transliterado.php:153
+msgid ""
+"Se vi elektos <em>Ŝanĝi malnovajn etikedojn/kategoriojn</em>, estos ŝanĝitaj "
+"la URL-nomoj de ĉiuj jam ekzistantaj etikedoj kaj kategorioj (ankaŭ ligilo-"
+"kategorioj) laŭ la novaj elektoj. <strong>Ligiloj, kiuj uzas la malnovajn "
+"URL-nomojn de tiuj etikedoj kaj kategorioj, <em>ne plu funkcios</em></"
+"strong>. Pripensu do bone antaŭ ol elekti tiun ĉi eblon."
+msgstr "Wenn Sie <em>URL-Formen älterer Schlagwörter und Kategorien ändern</em> "
+"wählen, werden die URL-Formen schon existierenden Schlagwörter und Kategorien "
+"entsprechend den neuen Einstellungen geändert. <strong>Links, die ältere URL-Formen "
+"dieser Schlagwörter und Kategorien benutzen, <em>funktionieren dann nicht "
+"mehr</em></strong>. Überlegen Sie also gut, ob Sie diese Möglichkeit wählen möchten."
+
+#: transliterado.php:157
+msgid "Konservi"
+msgstr "Speichern"

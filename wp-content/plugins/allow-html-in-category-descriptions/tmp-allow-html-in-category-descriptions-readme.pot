@@ -1,0 +1,105 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Allow HTML in Category Descriptions"
+msgstr ""
+
+#. Short description.
+msgid "This plugin allows you to use unfiltered HTML in your category descriptions by disabling selected WordPress filters."
+msgstr ""
+
+#. Screenshot description.
+msgid "Adding HTML code to the category description"
+msgstr ""
+
+#. Screenshot description.
+msgid "A preview of the category description in the category list admin screen"
+msgstr ""
+
+#. Screenshot description.
+msgid ""
+"What the category looks like on the front-end if your theme supports it\n"
+"(here shown with the Twenty Fourteen theme)"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"When you add text to the category description textarea and save the category, WordPress runs content filters that \n"
+"strips out all but the most basic formatting tags."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This plugin disables those filters. Any html code you add to the category description will not be stripped out."
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"This plugin does not do anything other than disable the filters. It does not protect you from entering invalid HTML, \n"
+"nor does it help you create WYSIWYG HTML. You can use the post or page composing screen to help you create the text \n"
+"and formatting. Switch to the 'code' tab and copy the HTML code into the category description field."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload <code>html-in-category-descriptions.php</code> to the <code>/wp-content/plugins/</code> directory"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Paste or type HTML code in the category description and save."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Enjoy HTML in your category descriptions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add a text domain for translation purposes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor formatting of the plugin code, syntax, etc."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a banner image for the plugin page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "A version bump to indicate to WordPress that the plugin was reviewed and tested in the latest version of WordPress"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made sure that the pre_filters array had corresponding items in the filters array"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a donation link"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a filter array for the textareas admin displays"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "First release into the wild after helping someone on a forum post"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I contact you?"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>Email Address:</strong> arno.esterhuizen+wordpress-plugins@gmail.com"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>Subject Line:</strong> Question: WordPress Plugin: Allow HTML in Category Descriptions"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<strong>Donations:</strong> https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=SGS5KSM9N4D3Y"
+msgstr ""

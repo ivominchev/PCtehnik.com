@@ -1,0 +1,32 @@
+[01-Mar-2016 02:53:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/pctehni/public_html/wp-content/themes/mystile-child-01/functions.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pctehni/public_html/wp-content/themes/mystile-child-01/functions.php on line 18
+[12-Mar-2016 17:52:19 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/pctehni/public_html/wp-content/themes/mystile-child-01/functions.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pctehni/public_html/wp-content/themes/mystile-child-01/functions.php on line 18
+[12-Mar-2016 18:37:29 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/pctehni/public_html/wp-content/themes/mystile-child-01/functions.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pctehni/public_html/wp-content/themes/mystile-child-01/functions.php on line 18
+[07-Jul-2016 18:13:32 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/pctehni/public_html/wp-content/themes/mystile-child-01/functions.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pctehni/public_html/wp-content/themes/mystile-child-01/functions.php on line 18
+[03-Aug-2016 01:18:27 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/pctehni/public_html/wp-content/themes/mystile-child-01/functions.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pctehni/public_html/wp-content/themes/mystile-child-01/functions.php on line 18
+[03-Aug-2016 08:57:17 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/pctehni/public_html/wp-content/themes/mystile-child-01/functions.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pctehni/public_html/wp-content/themes/mystile-child-01/functions.php on line 18
+[05-Aug-2016 22:52:21 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/pctehni/public_html/wp-content/themes/mystile-child-01/functions.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pctehni/public_html/wp-content/themes/mystile-child-01/functions.php on line 18
+[10-Aug-2016 09:24:04 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/pctehni/public_html/wp-content/themes/mystile-child-01/functions.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pctehni/public_html/wp-content/themes/mystile-child-01/functions.php on line 18

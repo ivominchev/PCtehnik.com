@@ -1,0 +1,146 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Call for Price for WooCommerce
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call for Price for WooCommerce 3.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woocommerce-call-"
+"for-price\n"
+"POT-Creation-Date: 2017-04-26 01:16+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: woocommerce-call-for-price.php:106
+msgid "Settings"
+msgstr ""
+
+#: woocommerce-call-for-price.php:108
+msgid "Unlock All"
+msgstr ""
+
+#: includes/class-wc-call-for-price.php:207
+#: includes/admin/class-wc-call-for-price-settings-product-types.php:143
+#: includes/admin/class-wc-settings-call-for-price.php:23
+msgid "Call for Price"
+msgstr ""
+
+#: includes/admin/class-wc-call-for-price-settings-general.php:24
+msgid "General"
+msgstr ""
+
+#: includes/admin/class-wc-call-for-price-settings-general.php:46
+msgid "Call for Price Options"
+msgstr ""
+
+#: includes/admin/class-wc-call-for-price-settings-general.php:51
+msgid "WooCommerce Call for Price"
+msgstr ""
+
+#: includes/admin/class-wc-call-for-price-settings-general.php:52
+#: includes/admin/class-wc-call-for-price-settings-general.php:74
+#: includes/admin/class-wc-call-for-price-settings-product-types.php:125
+#: includes/admin/class-wc-call-for-price-settings-product-types.php:135
+msgid "Enable"
+msgstr ""
+
+#: includes/admin/class-wc-call-for-price-settings-general.php:53
+msgid ""
+"Create any custom price label for all WooCommerce products with empty price."
+msgstr ""
+
+#: includes/admin/class-wc-call-for-price-settings-general.php:59
+msgid "Hide Sale Tag for Products with Empty Prices"
+msgstr ""
+
+#: includes/admin/class-wc-call-for-price-settings-general.php:60
+#: includes/admin/class-wc-call-for-price-settings-general.php:67
+msgid "Hide"
+msgstr ""
+
+#: includes/admin/class-wc-call-for-price-settings-general.php:66
+msgid "Hide Disabled Add to Cart Button for Variations with Empty Prices"
+msgstr ""
+
+#: includes/admin/class-wc-call-for-price-settings-general.php:73
+msgid "Make All Products \"Call for Price\""
+msgstr ""
+
+#: includes/admin/class-wc-call-for-price-settings-product-types.php:25
+msgid "Simple Products"
+msgstr ""
+
+#: includes/admin/class-wc-call-for-price-settings-product-types.php:26
+msgid "Variable Products"
+msgstr ""
+
+#: includes/admin/class-wc-call-for-price-settings-product-types.php:27
+msgid "Grouped Products"
+msgstr ""
+
+#: includes/admin/class-wc-call-for-price-settings-product-types.php:28
+msgid "External Products"
+msgstr ""
+
+#: includes/admin/class-wc-call-for-price-settings-product-types.php:98
+msgid "Single Product Page"
+msgstr ""
+
+#: includes/admin/class-wc-call-for-price-settings-product-types.php:99
+msgid "Related Products"
+msgstr ""
+
+#: includes/admin/class-wc-call-for-price-settings-product-types.php:100
+msgid "Homepage"
+msgstr ""
+
+#: includes/admin/class-wc-call-for-price-settings-product-types.php:101
+msgid "Pages (e.g. Shortcodes)"
+msgstr ""
+
+#: includes/admin/class-wc-call-for-price-settings-product-types.php:102
+msgid "Archives"
+msgstr ""
+
+#: includes/admin/class-wc-call-for-price-settings-product-types.php:105
+msgid "Variations"
+msgstr ""
+
+#: includes/admin/class-wc-call-for-price-settings-product-types.php:115
+#, php-format
+msgid ""
+"You will need <a target=\"_blank\" href=\"%s\">Call for Price for "
+"WooCommerce Pro</a> plugin to change default texts."
+msgstr ""
+
+#: includes/admin/class-wc-call-for-price-settings-product-types.php:124
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/admin/class-wc-call-for-price-settings-product-types.php:141
+msgid "This sets the html to output on empty price. Leave blank to disable."
+msgstr ""
+
+#: includes/admin/class-wc-settings-call-for-price.php:37
+msgid "Reset Section Settings"
+msgstr ""
+
+#: includes/admin/class-wc-settings-call-for-price.php:42
+msgid "Reset Settings"
+msgstr ""
+
+#: includes/admin/class-wc-settings-call-for-price.php:43
+msgid "Reset"
+msgstr ""
+
+#: includes/admin/class-wc-settings-call-for-price.php:95
+#, php-format
+msgid "Call for Price for WooCommerce - version %s"
+msgstr ""

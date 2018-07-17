@@ -1,0 +1,84 @@
+# Translation of Transliterado to Russian from Esperanto
+# Bertilo Wennergren <bertilow@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: Transliterado 0.1\n"
+"Report-Msgid-Bugs-To: bertilow@gmail.com\n"
+"POT-Creation-Date: 2008-04-01 09:24+0900\n"
+"PO-Revision-Date: 2008-04-23 12:51+0900\n"
+"Last-Translator: Viatcheslav Ivanov <mi@amikeco.ru>\n"
+"Language-Team: English <bertilow@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: transliterado.php:12
+msgid "Specialaj signoj"
+msgstr "Специальные символы"
+
+#: transliterado.php:13
+msgid "Simpligo de haltostrekoj kaj aliaj specialaj signoj"
+msgstr "Упрощение специальных символов"
+
+#: transliterado.php:68
+msgid ""
+"Ĉi tie vi povas elekti, kiuj transliteradaj sistemoj estu uzataj en la URL-"
+"nomoj de novaj afiŝoj kaj paĝoj. Ne elektu pli da sistemoj ol vi vere "
+"bezonas. Atentu, ke iuj sistemoj koncernas la samajn signojn, kaj do povas "
+"interkolizii."
+msgstr "Здесь вы можете выбрать системы транслитерации для использования в адресах"
+"новых записей и страниц. Не выбирайте больше систем, чем вам действительно нужно. "
+"Учитывайте, что разные системы могут охватывать одни и те же символы и конфликтовать."
+
+#: transliterado.php:77
+msgid "La elektoj estas konservitaj."
+msgstr "Настройки сохранены."
+
+#: transliterado.php:102
+msgid ""
+"La malnovaj URL-nomoj de afiŝoj kaj paĝoj estas ŝanĝitaj laŭ tiuj elektoj."
+msgstr ""
+"Все старые адреса записей и страниц были изменены согласно этим настройкам."
+
+#: transliterado.php:114
+msgid ""
+"La malnovaj URL-nomoj de etikedoj kaj kategorioj (ankaŭ ligilo-kategorioj) "
+"estas ŝanĝitaj laŭ tiuj elektoj."
+msgstr ""
+"Все старые имена тегов и рубрик (включая рубрики ссылок) были изменены "
+"согласно настройкам."
+
+#: transliterado.php:145
+msgid "Ŝanĝi malnovajn afiŝojn/paĝojn"
+msgstr "Изменить адреса старых записей и страниц"
+
+#: transliterado.php:147
+msgid ""
+"Se vi elektos <em>Ŝanĝi malnovajn afiŝojn/paĝojn</em>, estos ŝanĝitaj la URL-"
+"nomoj de ĉiuj jam publikigitaj afiŝoj kaj paĝoj laŭ la novaj elektoj. "
+"Ligiloj, kiuj uzas la malnovajn URL-nomojn, tamen restos plu funkciantaj."
+msgstr ""
+"Если выбрать <em>Изменить адреса старых записей и страниц</em>, адреса ранее "
+"опубликованных записей и страниц будут изменены согласно новым настройкам. "
+"При этом старые адреса будут по-прежнему открываться."
+
+#: transliterado.php:151
+msgid "Ŝanĝi malnovajn etikedojn/kategoriojn"
+msgstr "Изменить адреса старых тегов и рубрик"
+
+#: transliterado.php:153
+msgid ""
+"Se vi elektos <em>Ŝanĝi malnovajn etikedojn/kategoriojn</em>, estos ŝanĝitaj "
+"la URL-nomoj de ĉiuj jam ekzistantaj etikedoj kaj kategorioj (ankaŭ ligilo-"
+"kategorioj) laŭ la novaj elektoj. <strong>Ligiloj, kiuj uzas la malnovajn "
+"URL-nomojn de tiuj etikedoj kaj kategorioj, <em>ne plu funkcios</em></"
+"strong>. Pripensu do bone antaŭ ol elekti tiun ĉi eblon."
+msgstr ""
+"Если выбрать <em>Изменить адреса старых тегов и рубрик</em>, адреса ранее "
+"созданных тегов и рубрик будут изменены согласно новым настройкам. "
+"<strong>Старые ссылки при этом <em>перестанут работать</em></strong>. "
+"Хорошо подумайте, прежде чем выбрать эту опцию."
+
+#: transliterado.php:157
+msgid "Konservi"
+msgstr "Сохранить"

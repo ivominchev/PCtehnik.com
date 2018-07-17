@@ -1,0 +1,11 @@
+User-Agent: *
+Allow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+
+Sitemap: https://pctehnik.com/post-sitemap.xml
+Sitemap: https://pctehnik.com/page-sitemap.xml
+Sitemap: https://pctehnik.com/product-sitemap.xml
+Sitemap: https://pctehnik.com/category-sitemap.xml
+Sitemap: https://pctehnik.com/post_tag-sitemap.xml
+Sitemap: https://pctehnik.com/product_cat-sitemap.xml
+Sitemap: https://pctehnik.com/product_tag-sitemap.xml
